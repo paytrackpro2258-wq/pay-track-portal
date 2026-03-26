@@ -28,7 +28,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.683Z"
+    "lastUpdated": "2026-03-26T15:32:07.275Z"
   },
   {
     "name": "Tarashpal malik 2",
@@ -38,16 +38,17 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.684Z"
+    "lastUpdated": "2026-03-26T15:32:07.275Z"
   },
   {
     "name": "PARDEEP PUNIYA DEALER",
     "phone": "8700980630",
-    "address": "N/A",
-    "pendingAmount": "4690.00",
+    "address": "1",
+    "pendingAmount": "4790.00",
     "advanceAmount": "0.00",
     "yearWisePending": {
-      "2025-2026": 4690
+      "2025-2026": 4690,
+      "2026-2027": 100
     },
     "invoices": [
       {
@@ -61,9 +62,15 @@
         "date": "07/03/2026",
         "amount": "4400.00",
         "advance": "0.00"
+      },
+      {
+        "id": "2",
+        "date": "26/03/2026",
+        "amount": "100.00",
+        "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.685Z"
+    "lastUpdated": "2026-03-26T15:32:07.276Z"
   },
   {
     "name": "Yashpal Ji",
@@ -94,7 +101,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.685Z"
+    "lastUpdated": "2026-03-26T15:32:07.276Z"
   },
   {
     "name": "Gaurav Singhal",
@@ -221,7 +228,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.686Z"
+    "lastUpdated": "2026-03-26T15:32:07.277Z"
   },
   {
     "name": "Sanjay Kasanpur",
@@ -231,7 +238,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.687Z"
+    "lastUpdated": "2026-03-26T15:32:07.278Z"
   },
   {
     "name": "KP Malik",
@@ -262,7 +269,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.687Z"
+    "lastUpdated": "2026-03-26T15:32:07.278Z"
   },
   {
     "name": "Pankaj Paint",
@@ -281,7 +288,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.687Z"
+    "lastUpdated": "2026-03-26T15:32:07.278Z"
   },
   {
     "name": "Jora Singh (dealer)",
@@ -291,7 +298,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.688Z"
+    "lastUpdated": "2026-03-26T15:32:07.278Z"
   },
   {
     "name": "Mahadev Paint (Anuj)",
@@ -310,7 +317,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.688Z"
+    "lastUpdated": "2026-03-26T15:32:07.279Z"
   },
   {
     "name": "Chaudhary Colour World",
@@ -431,7 +438,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.688Z"
+    "lastUpdated": "2026-03-26T15:32:07.279Z"
   },
   {
     "name": "Pintu Dream city",
@@ -441,7 +448,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.688Z"
+    "lastUpdated": "2026-03-26T15:32:07.279Z"
   },
   {
     "name": "JMC Hospital (Rahul)",
@@ -544,7 +551,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.688Z"
+    "lastUpdated": "2026-03-26T15:32:07.280Z"
   },
   {
     "name": "Amit Punia",
@@ -554,7 +561,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.689Z"
+    "lastUpdated": "2026-03-26T15:32:07.280Z"
   },
   {
     "name": "Rajinder Paint dabathwa",
@@ -585,7 +592,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.689Z"
+    "lastUpdated": "2026-03-26T15:32:07.280Z"
   },
   {
     "name": "Rahul Taliyan",
@@ -595,7 +602,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.689Z"
+    "lastUpdated": "2026-03-26T15:32:07.281Z"
   },
   {
     "name": "Mukesh ji RK City",
@@ -605,7 +612,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.689Z"
+    "lastUpdated": "2026-03-26T15:32:07.281Z"
   },
   {
     "name": "SHUBHAM  MALIK ",
@@ -615,7 +622,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.689Z"
+    "lastUpdated": "2026-03-26T15:32:07.282Z"
   },
   {
     "name": "Kamal Paint",
@@ -634,7 +641,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.690Z"
+    "lastUpdated": "2026-03-26T15:32:07.282Z"
   },
   {
     "name": "Anil Paint",
@@ -653,7 +660,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.690Z"
+    "lastUpdated": "2026-03-26T15:32:07.283Z"
   },
   {
     "name": "Avinash",
@@ -663,7 +670,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.690Z"
+    "lastUpdated": "2026-03-26T15:32:07.283Z"
   },
   {
     "name": "MANI MALIK ",
@@ -682,7 +689,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.690Z"
+    "lastUpdated": "2026-03-26T15:32:07.283Z"
   },
   {
     "name": "Vickey",
@@ -701,7 +708,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.691Z"
+    "lastUpdated": "2026-03-26T15:32:07.283Z"
   },
   {
     "name": "Vivek",
@@ -726,7 +733,7 @@
         "advance": "800.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.691Z"
+    "lastUpdated": "2026-03-26T15:32:07.284Z"
   },
   {
     "name": "Rahul",
@@ -745,7 +752,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.691Z"
+    "lastUpdated": "2026-03-26T15:32:07.284Z"
   },
   {
     "name": "Sachin Baliyan",
@@ -755,7 +762,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.691Z"
+    "lastUpdated": "2026-03-26T15:32:07.284Z"
   },
   {
     "name": "NITU SINGH",
@@ -765,7 +772,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.692Z"
+    "lastUpdated": "2026-03-26T15:32:07.285Z"
   },
   {
     "name": "Raju Toll",
@@ -826,7 +833,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.692Z"
+    "lastUpdated": "2026-03-26T15:32:07.285Z"
   },
   {
     "name": "Kuldeep",
@@ -836,7 +843,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.692Z"
+    "lastUpdated": "2026-03-26T15:32:07.285Z"
   },
   {
     "name": "Naveen Ji",
@@ -855,7 +862,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.692Z"
+    "lastUpdated": "2026-03-26T15:32:07.286Z"
   },
   {
     "name": "ANIL PROFESSOR",
@@ -865,7 +872,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.693Z"
+    "lastUpdated": "2026-03-26T15:32:07.286Z"
   },
   {
     "name": "DHARMINDER",
@@ -875,7 +882,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.693Z"
+    "lastUpdated": "2026-03-26T15:32:07.286Z"
   },
   {
     "name": "Harish Painter (Jagathy)",
@@ -885,7 +892,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.693Z"
+    "lastUpdated": "2026-03-26T15:32:07.287Z"
   },
   {
     "name": "DEEPAK PAINTER",
@@ -910,7 +917,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.694Z"
+    "lastUpdated": "2026-03-26T15:32:07.287Z"
   },
   {
     "name": "Raj Cement (Nanaji)",
@@ -929,7 +936,7 @@
         "advance": "4182.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.694Z"
+    "lastUpdated": "2026-03-26T15:32:07.287Z"
   },
   {
     "name": "SURASH MALIK",
@@ -966,7 +973,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.694Z"
+    "lastUpdated": "2026-03-26T15:32:07.288Z"
   },
   {
     "name": "JAIVEER JI",
@@ -976,7 +983,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.695Z"
+    "lastUpdated": "2026-03-26T15:32:07.288Z"
   },
   {
     "name": "AMIT SIROHI  (OM NAGAR)",
@@ -986,7 +993,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.695Z"
+    "lastUpdated": "2026-03-26T15:32:07.288Z"
   },
   {
     "name": "SANJIVE JIJAJI",
@@ -996,7 +1003,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.695Z"
+    "lastUpdated": "2026-03-26T15:32:07.289Z"
   },
   {
     "name": "sandeep ji",
@@ -1006,7 +1013,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.696Z"
+    "lastUpdated": "2026-03-26T15:32:07.289Z"
   },
   {
     "name": "MANISH JAIN",
@@ -1025,7 +1032,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.696Z"
+    "lastUpdated": "2026-03-26T15:32:07.289Z"
   },
   {
     "name": "NARINDER JI",
@@ -1044,7 +1051,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.696Z"
+    "lastUpdated": "2026-03-26T15:32:07.290Z"
   },
   {
     "name": "PARKASH JI",
@@ -1054,7 +1061,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.697Z"
+    "lastUpdated": "2026-03-26T15:32:07.290Z"
   },
   {
     "name": "DHARMANDER BHAI",
@@ -1064,7 +1071,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.697Z"
+    "lastUpdated": "2026-03-26T15:32:07.290Z"
   },
   {
     "name": "MHAESH PULAMPER",
@@ -1074,7 +1081,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.697Z"
+    "lastUpdated": "2026-03-26T15:32:07.291Z"
   },
   {
     "name": "SAMBHAV CLINIC",
@@ -1084,7 +1091,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.698Z"
+    "lastUpdated": "2026-03-26T15:32:07.291Z"
   },
   {
     "name": "Sudhir",
@@ -1094,7 +1101,7 @@
     "advanceAmount": "5000.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.698Z"
+    "lastUpdated": "2026-03-26T15:32:07.291Z"
   },
   {
     "name": "vinay master ji",
@@ -1104,7 +1111,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.698Z"
+    "lastUpdated": "2026-03-26T15:32:07.292Z"
   },
   {
     "name": "SUDHIR MALIK",
@@ -1114,7 +1121,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.699Z"
+    "lastUpdated": "2026-03-26T15:32:07.292Z"
   },
   {
     "name": "ABHAY CHAUDHARY",
@@ -1133,7 +1140,7 @@
         "advance": "500.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.699Z"
+    "lastUpdated": "2026-03-26T15:32:07.293Z"
   },
   {
     "name": "SUSHIL JI",
@@ -1143,7 +1150,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.699Z"
+    "lastUpdated": "2026-03-26T15:32:07.293Z"
   },
   {
     "name": "JAIVEER JI",
@@ -1153,7 +1160,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.700Z"
+    "lastUpdated": "2026-03-26T15:32:07.293Z"
   },
   {
     "name": "POP FARMAN",
@@ -1292,7 +1299,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.700Z"
+    "lastUpdated": "2026-03-26T15:32:07.293Z"
   },
   {
     "name": "SUBHAM MALIK",
@@ -1302,7 +1309,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.700Z"
+    "lastUpdated": "2026-03-26T15:32:07.294Z"
   },
   {
     "name": "VICKARINT",
@@ -1312,7 +1319,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.700Z"
+    "lastUpdated": "2026-03-26T15:32:07.294Z"
   },
   {
     "name": "SOURABH (Ganesh Traders)",
@@ -1322,7 +1329,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.701Z"
+    "lastUpdated": "2026-03-26T15:32:07.294Z"
   },
   {
     "name": "BHAVYA PAINTS K.K",
@@ -1551,7 +1558,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.701Z"
+    "lastUpdated": "2026-03-26T15:32:07.295Z"
   },
   {
     "name": "PERDEEP SUNRISE",
@@ -1561,7 +1568,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.701Z"
+    "lastUpdated": "2026-03-26T15:32:07.295Z"
   },
   {
     "name": "SONU SINGAL",
@@ -1571,7 +1578,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.701Z"
+    "lastUpdated": "2026-03-26T15:32:07.295Z"
   },
   {
     "name": "SANI SANT VHIAR",
@@ -1581,7 +1588,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.702Z"
+    "lastUpdated": "2026-03-26T15:32:07.296Z"
   },
   {
     "name": "BSHANT TOMER",
@@ -1591,7 +1598,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.702Z"
+    "lastUpdated": "2026-03-26T15:32:07.296Z"
   },
   {
     "name": "ANKUR   ( ANSH )",
@@ -1646,7 +1653,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.702Z"
+    "lastUpdated": "2026-03-26T15:32:07.296Z"
   },
   {
     "name": "Agam",
@@ -1656,7 +1663,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.703Z"
+    "lastUpdated": "2026-03-26T15:32:07.297Z"
   },
   {
     "name": "PAINTER SALMAN INTYAJ",
@@ -1666,7 +1673,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.703Z"
+    "lastUpdated": "2026-03-26T15:32:07.297Z"
   },
   {
     "name": "MANOJ DJ WALA",
@@ -1676,7 +1683,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.703Z"
+    "lastUpdated": "2026-03-26T15:32:07.297Z"
   },
   {
     "name": "SANI S/O KP SING",
@@ -1749,7 +1756,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.704Z"
+    "lastUpdated": "2026-03-26T15:32:07.297Z"
   },
   {
     "name": "PAINTER GURAV VIKASH",
@@ -1759,7 +1766,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.704Z"
+    "lastUpdated": "2026-03-26T15:32:07.297Z"
   },
   {
     "name": "PAINTER RAJKUMAR",
@@ -1784,7 +1791,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.704Z"
+    "lastUpdated": "2026-03-26T15:32:07.298Z"
   },
   {
     "name": "SUNIL PATHOLI",
@@ -1803,7 +1810,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.704Z"
+    "lastUpdated": "2026-03-26T15:32:07.298Z"
   },
   {
     "name": "SHRIPAL JI",
@@ -2212,7 +2219,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.705Z"
+    "lastUpdated": "2026-03-26T15:32:07.298Z"
   },
   {
     "name": "POLICE PAINTER SEATESH",
@@ -2222,7 +2229,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.705Z"
+    "lastUpdated": "2026-03-26T15:32:07.298Z"
   },
   {
     "name": "SONU GUPTA",
@@ -2241,7 +2248,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.705Z"
+    "lastUpdated": "2026-03-26T15:32:07.299Z"
   },
   {
     "name": "SHIVAM BHARDWAJ",
@@ -2251,7 +2258,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.706Z"
+    "lastUpdated": "2026-03-26T15:32:07.299Z"
   },
   {
     "name": "NIRJA (JORA SINGH",
@@ -2276,7 +2283,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.706Z"
+    "lastUpdated": "2026-03-26T15:32:07.299Z"
   },
   {
     "name": "ARCHANA PAINTS",
@@ -2367,7 +2374,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.706Z"
+    "lastUpdated": "2026-03-26T15:32:07.299Z"
   },
   {
     "name": "MP FARAM",
@@ -2377,7 +2384,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.707Z"
+    "lastUpdated": "2026-03-26T15:32:07.300Z"
   },
   {
     "name": "PAINTER SALAM",
@@ -2402,7 +2409,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.707Z"
+    "lastUpdated": "2026-03-26T15:32:07.300Z"
   },
   {
     "name": "PAINTER ROHITE",
@@ -2412,7 +2419,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.707Z"
+    "lastUpdated": "2026-03-26T15:32:07.300Z"
   },
   {
     "name": "SUDANSHU",
@@ -2422,7 +2429,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.708Z"
+    "lastUpdated": "2026-03-26T15:32:07.300Z"
   },
   {
     "name": "AMARDEEP PAINTER",
@@ -2453,7 +2460,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.708Z"
+    "lastUpdated": "2026-03-26T15:32:07.301Z"
   },
   {
     "name": "VIPIN [DEALER]",
@@ -2463,7 +2470,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.708Z"
+    "lastUpdated": "2026-03-26T15:32:07.301Z"
   },
   {
     "name": "PANTER MEHKAR SIGH",
@@ -2473,7 +2480,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.708Z"
+    "lastUpdated": "2026-03-26T15:32:07.301Z"
   },
   {
     "name": "PANTER MAHESH",
@@ -2483,7 +2490,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.709Z"
+    "lastUpdated": "2026-03-26T15:32:07.302Z"
   },
   {
     "name": "ABEJALEKHAN PAINTER",
@@ -2493,7 +2500,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.709Z"
+    "lastUpdated": "2026-03-26T15:32:07.302Z"
   },
   {
     "name": "AASHISH",
@@ -2503,7 +2510,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.709Z"
+    "lastUpdated": "2026-03-26T15:32:07.302Z"
   },
   {
     "name": "POP JOGINDER",
@@ -2513,7 +2520,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.709Z"
+    "lastUpdated": "2026-03-26T15:32:07.303Z"
   },
   {
     "name": "MHOIT AB 80",
@@ -2544,7 +2551,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.710Z"
+    "lastUpdated": "2026-03-26T15:32:07.303Z"
   },
   {
     "name": "MOHIT KUMAR",
@@ -2563,7 +2570,7 @@
         "advance": "199.99"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.710Z"
+    "lastUpdated": "2026-03-26T15:32:07.303Z"
   },
   {
     "name": "PARMOD JI",
@@ -2573,7 +2580,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.710Z"
+    "lastUpdated": "2026-03-26T15:32:07.304Z"
   },
   {
     "name": "PAINTER PANKAJ (ANIL)",
@@ -2583,7 +2590,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.711Z"
+    "lastUpdated": "2026-03-26T15:32:07.304Z"
   },
   {
     "name": "GOYAL FURNITURE",
@@ -2593,7 +2600,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.711Z"
+    "lastUpdated": "2026-03-26T15:32:07.304Z"
   },
   {
     "name": "YOGAINDER SING",
@@ -2603,7 +2610,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.711Z"
+    "lastUpdated": "2026-03-26T15:32:07.305Z"
   },
   {
     "name": "KAPIL TALIYAN",
@@ -2613,7 +2620,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.712Z"
+    "lastUpdated": "2026-03-26T15:32:07.305Z"
   },
   {
     "name": "SN YADAV JI",
@@ -2623,7 +2630,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.712Z"
+    "lastUpdated": "2026-03-26T15:32:07.305Z"
   },
   {
     "name": "MANOJ JI",
@@ -2633,7 +2640,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.712Z"
+    "lastUpdated": "2026-03-26T15:32:07.305Z"
   },
   {
     "name": "ANURADHA (SANI)",
@@ -2643,7 +2650,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.713Z"
+    "lastUpdated": "2026-03-26T15:32:07.305Z"
   },
   {
     "name": "SHARMA JI GADI WALA",
@@ -2674,7 +2681,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.713Z"
+    "lastUpdated": "2026-03-26T15:32:07.306Z"
   },
   {
     "name": "HARSH BUTJEORA",
@@ -2684,7 +2691,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.713Z"
+    "lastUpdated": "2026-03-26T15:32:07.306Z"
   },
   {
     "name": "painter sunil",
@@ -2694,7 +2701,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.714Z"
+    "lastUpdated": "2026-03-26T15:32:07.307Z"
   },
   {
     "name": "PWAN BHARDWAJ",
@@ -2704,7 +2711,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.714Z"
+    "lastUpdated": "2026-03-26T15:32:07.307Z"
   },
   {
     "name": "PAINTER RAVINDER",
@@ -2723,7 +2730,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.714Z"
+    "lastUpdated": "2026-03-26T15:32:07.307Z"
   },
   {
     "name": "RAVI DABKA",
@@ -2742,7 +2749,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.715Z"
+    "lastUpdated": "2026-03-26T15:32:07.308Z"
   },
   {
     "name": "DAVINDER FOJI",
@@ -2752,7 +2759,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.715Z"
+    "lastUpdated": "2026-03-26T15:32:07.308Z"
   },
   {
     "name": "MOHIT BUTJEORA",
@@ -2771,7 +2778,7 @@
         "advance": "500.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.715Z"
+    "lastUpdated": "2026-03-26T15:32:07.308Z"
   },
   {
     "name": "LOKESH ",
@@ -2781,7 +2788,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.715Z"
+    "lastUpdated": "2026-03-26T15:32:07.309Z"
   },
   {
     "name": "FIROZ PAINTER SAIFI",
@@ -2818,7 +2825,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.716Z"
+    "lastUpdated": "2026-03-26T15:32:07.309Z"
   },
   {
     "name": "SHUBHAM",
@@ -2837,7 +2844,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.716Z"
+    "lastUpdated": "2026-03-26T15:32:07.310Z"
   },
   {
     "name": "RAMKISHAN ",
@@ -2847,7 +2854,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.716Z"
+    "lastUpdated": "2026-03-26T15:32:07.310Z"
   },
   {
     "name": "BANTI PANTER",
@@ -2866,7 +2873,7 @@
         "advance": "3000.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.716Z"
+    "lastUpdated": "2026-03-26T15:32:07.310Z"
   },
   {
     "name": "JAGBIR SINGH",
@@ -2876,7 +2883,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.717Z"
+    "lastUpdated": "2026-03-26T15:32:07.311Z"
   },
   {
     "name": "SONU GUPTA",
@@ -2886,7 +2893,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.717Z"
+    "lastUpdated": "2026-03-26T15:32:07.311Z"
   },
   {
     "name": "GUPTA  PAINT",
@@ -2905,7 +2912,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.717Z"
+    "lastUpdated": "2026-03-26T15:32:07.311Z"
   },
   {
     "name": "DAVINDER",
@@ -2924,7 +2931,7 @@
         "advance": "1500.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.717Z"
+    "lastUpdated": "2026-03-26T15:32:07.311Z"
   },
   {
     "name": "VINAY TOMAR ",
@@ -2934,7 +2941,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.717Z"
+    "lastUpdated": "2026-03-26T15:32:07.312Z"
   },
   {
     "name": "GAURAV SINGHAL",
@@ -2944,7 +2951,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.718Z"
+    "lastUpdated": "2026-03-26T15:32:07.312Z"
   },
   {
     "name": "RAVI DABLESTORY",
@@ -2954,7 +2961,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.718Z"
+    "lastUpdated": "2026-03-26T15:32:07.312Z"
   },
   {
     "name": "HARPAL JI",
@@ -2964,7 +2971,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.718Z"
+    "lastUpdated": "2026-03-26T15:32:07.313Z"
   },
   {
     "name": "ANKUR",
@@ -2974,7 +2981,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.718Z"
+    "lastUpdated": "2026-03-26T15:32:07.313Z"
   },
   {
     "name": "JAIVEER SINGH ",
@@ -2993,7 +3000,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.719Z"
+    "lastUpdated": "2026-03-26T15:32:07.313Z"
   },
   {
     "name": "RUPESH",
@@ -3003,7 +3010,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.719Z"
+    "lastUpdated": "2026-03-26T15:32:07.314Z"
   },
   {
     "name": "ankur butjei\\ora",
@@ -3013,7 +3020,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.719Z"
+    "lastUpdated": "2026-03-26T15:32:07.314Z"
   },
   {
     "name": "SANJAY PANTER JANGATHI",
@@ -3023,7 +3030,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.719Z"
+    "lastUpdated": "2026-03-26T15:32:07.314Z"
   },
   {
     "name": "SONU GUPTA",
@@ -3033,7 +3040,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.720Z"
+    "lastUpdated": "2026-03-26T15:32:07.315Z"
   },
   {
     "name": "FARUKH ",
@@ -3058,7 +3065,7 @@
         "advance": "1000.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.720Z"
+    "lastUpdated": "2026-03-26T15:32:07.315Z"
   },
   {
     "name": "DEEPAK PAINTER ",
@@ -3083,7 +3090,7 @@
         "advance": "10000.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.720Z"
+    "lastUpdated": "2026-03-26T15:32:07.315Z"
   },
   {
     "name": "NAYIM",
@@ -3093,7 +3100,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.720Z"
+    "lastUpdated": "2026-03-26T15:32:07.316Z"
   },
   {
     "name": "ANKUR BUTJEORA",
@@ -3103,7 +3110,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.721Z"
+    "lastUpdated": "2026-03-26T15:32:07.316Z"
   },
   {
     "name": "VIKASH  F 27 ",
@@ -3113,7 +3120,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.721Z"
+    "lastUpdated": "2026-03-26T15:32:07.316Z"
   },
   {
     "name": "RAHUL",
@@ -3123,7 +3130,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.721Z"
+    "lastUpdated": "2026-03-26T15:32:07.317Z"
   },
   {
     "name": "NARENDER METRO",
@@ -3133,7 +3140,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.722Z"
+    "lastUpdated": "2026-03-26T15:32:07.317Z"
   },
   {
     "name": "ARUN JI",
@@ -3152,7 +3159,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.722Z"
+    "lastUpdated": "2026-03-26T15:32:07.317Z"
   },
   {
     "name": "AMIT TENT",
@@ -3291,7 +3298,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.722Z"
+    "lastUpdated": "2026-03-26T15:32:07.318Z"
   },
   {
     "name": "OPENDER",
@@ -3301,7 +3308,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.723Z"
+    "lastUpdated": "2026-03-26T15:32:07.318Z"
   },
   {
     "name": "PANTER SAHID",
@@ -3320,7 +3327,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.723Z"
+    "lastUpdated": "2026-03-26T15:32:07.318Z"
   },
   {
     "name": "HARSH PANTER",
@@ -3330,7 +3337,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.723Z"
+    "lastUpdated": "2026-03-26T15:32:07.318Z"
   },
   {
     "name": "JOGINDER PANTER",
@@ -3373,7 +3380,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.724Z"
+    "lastUpdated": "2026-03-26T15:32:07.319Z"
   },
   {
     "name": "RAVI DABKA",
@@ -3383,7 +3390,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.724Z"
+    "lastUpdated": "2026-03-26T15:32:07.319Z"
   },
   {
     "name": "HARIOM PLYWOOD",
@@ -3402,7 +3409,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.724Z"
+    "lastUpdated": "2026-03-26T15:32:07.319Z"
   },
   {
     "name": "RISHI PAL SOAM",
@@ -3421,7 +3428,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.724Z"
+    "lastUpdated": "2026-03-26T15:32:07.319Z"
   },
   {
     "name": "TUSHAR ",
@@ -3431,7 +3438,7 @@
     "advanceAmount": "515.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.725Z"
+    "lastUpdated": "2026-03-26T15:32:07.320Z"
   },
   {
     "name": "PARMOD JI FIROZ PANTER",
@@ -3441,7 +3448,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.725Z"
+    "lastUpdated": "2026-03-26T15:32:07.320Z"
   },
   {
     "name": "Shivam Goyal",
@@ -3451,7 +3458,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.725Z"
+    "lastUpdated": "2026-03-26T15:32:07.321Z"
   },
   {
     "name": "SURESH VED JI",
@@ -3461,7 +3468,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.726Z"
+    "lastUpdated": "2026-03-26T15:32:07.321Z"
   },
   {
     "name": "PRIYAM GOYEL",
@@ -3471,7 +3478,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.726Z"
+    "lastUpdated": "2026-03-26T15:32:07.321Z"
   },
   {
     "name": "GAURAV SINHGHAL",
@@ -3481,7 +3488,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.726Z"
+    "lastUpdated": "2026-03-26T15:32:07.321Z"
   },
   {
     "name": "KAPIL",
@@ -3491,7 +3498,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.726Z"
+    "lastUpdated": "2026-03-26T15:32:07.322Z"
   },
   {
     "name": "salman painter",
@@ -3501,7 +3508,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.727Z"
+    "lastUpdated": "2026-03-26T15:32:07.322Z"
   },
   {
     "name": "SANDEEP SHARMA JI",
@@ -3520,7 +3527,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.727Z"
+    "lastUpdated": "2026-03-26T15:32:07.322Z"
   },
   {
     "name": "ANUJ ",
@@ -3530,7 +3537,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.727Z"
+    "lastUpdated": "2026-03-26T15:32:07.323Z"
   },
   {
     "name": "PAWAN LIGHT MAMA",
@@ -3540,7 +3547,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.728Z"
+    "lastUpdated": "2026-03-26T15:32:07.323Z"
   },
   {
     "name": "VINEET",
@@ -3559,7 +3566,7 @@
         "advance": "350.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.728Z"
+    "lastUpdated": "2026-03-26T15:32:07.323Z"
   },
   {
     "name": "PERDEEP KARNAVAL",
@@ -3569,7 +3576,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.728Z"
+    "lastUpdated": "2026-03-26T15:32:07.323Z"
   },
   {
     "name": "ZISHAN",
@@ -3588,7 +3595,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.729Z"
+    "lastUpdated": "2026-03-26T15:32:07.324Z"
   },
   {
     "name": "KULDEER",
@@ -3598,7 +3605,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.729Z"
+    "lastUpdated": "2026-03-26T15:32:07.324Z"
   },
   {
     "name": "AMERJEET JI ",
@@ -3608,7 +3615,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.729Z"
+    "lastUpdated": "2026-03-26T15:32:07.324Z"
   },
   {
     "name": "AMIT KUMAR",
@@ -3618,7 +3625,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.729Z"
+    "lastUpdated": "2026-03-26T15:32:07.325Z"
   },
   {
     "name": "GUDDU PANTER (SHAVEJ)",
@@ -3628,7 +3635,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.730Z"
+    "lastUpdated": "2026-03-26T15:32:07.325Z"
   },
   {
     "name": "MANOJ ( JAGAT SINGH JI )",
@@ -3638,7 +3645,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.730Z"
+    "lastUpdated": "2026-03-26T15:32:07.325Z"
   },
   {
     "name": "MOSSIN PANTER",
@@ -3648,7 +3655,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.730Z"
+    "lastUpdated": "2026-03-26T15:32:07.325Z"
   },
   {
     "name": "PARDEEP JAVERI",
@@ -3679,7 +3686,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.730Z"
+    "lastUpdated": "2026-03-26T15:32:07.325Z"
   },
   {
     "name": "MOHIT OMNAGAR",
@@ -3698,7 +3705,7 @@
         "advance": "3000.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.731Z"
+    "lastUpdated": "2026-03-26T15:32:07.326Z"
   },
   {
     "name": "SANDEEP RAJ CEMENT",
@@ -3729,7 +3736,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.731Z"
+    "lastUpdated": "2026-03-26T15:32:07.326Z"
   },
   {
     "name": "ASHOK RATHI",
@@ -3748,7 +3755,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.731Z"
+    "lastUpdated": "2026-03-26T15:32:07.326Z"
   },
   {
     "name": "monty",
@@ -3758,7 +3765,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.731Z"
+    "lastUpdated": "2026-03-26T15:32:07.326Z"
   },
   {
     "name": "SAKAVAT",
@@ -3768,7 +3775,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.732Z"
+    "lastUpdated": "2026-03-26T15:32:07.327Z"
   },
   {
     "name": " PINTU",
@@ -3793,7 +3800,7 @@
         "advance": "100.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.732Z"
+    "lastUpdated": "2026-03-26T15:32:07.327Z"
   },
   {
     "name": "Vipinji Raj Cement.",
@@ -3812,7 +3819,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.732Z"
+    "lastUpdated": "2026-03-26T15:32:07.327Z"
   },
   {
     "name": "SONU DHAYAMPUR",
@@ -3831,7 +3838,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.732Z"
+    "lastUpdated": "2026-03-26T15:32:07.328Z"
   },
   {
     "name": "CHANCHLA ",
@@ -3850,7 +3857,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.732Z"
+    "lastUpdated": "2026-03-26T15:32:07.328Z"
   },
   {
     "name": "jitender",
@@ -3860,7 +3867,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.733Z"
+    "lastUpdated": "2026-03-26T15:32:07.328Z"
   },
   {
     "name": "CHOTU ",
@@ -3885,7 +3892,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.733Z"
+    "lastUpdated": "2026-03-26T15:32:07.329Z"
   },
   {
     "name": "SANDEEP NANGLA",
@@ -3895,7 +3902,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.733Z"
+    "lastUpdated": "2026-03-26T15:32:07.329Z"
   },
   {
     "name": "GUDDO PAINTER",
@@ -3905,7 +3912,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.733Z"
+    "lastUpdated": "2026-03-26T15:32:07.329Z"
   },
   {
     "name": "ADIL WELDING",
@@ -3915,7 +3922,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.733Z"
+    "lastUpdated": "2026-03-26T15:32:07.329Z"
   },
   {
     "name": "KP SINGH",
@@ -3925,7 +3932,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.734Z"
+    "lastUpdated": "2026-03-26T15:32:07.330Z"
   },
   {
     "name": "KHUSHI RAM ",
@@ -3935,7 +3942,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.734Z"
+    "lastUpdated": "2026-03-26T15:32:07.330Z"
   },
   {
     "name": "SARUK POP",
@@ -3945,7 +3952,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.734Z"
+    "lastUpdated": "2026-03-26T15:32:07.330Z"
   },
   {
     "name": "VASIM ",
@@ -3955,7 +3962,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.734Z"
+    "lastUpdated": "2026-03-26T15:32:07.330Z"
   },
   {
     "name": "VANSH ELECTRICAL",
@@ -3965,7 +3972,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.734Z"
+    "lastUpdated": "2026-03-26T15:32:07.331Z"
   },
   {
     "name": "NAZIM",
@@ -3975,7 +3982,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.735Z"
+    "lastUpdated": "2026-03-26T15:32:07.331Z"
   },
   {
     "name": "SANJAY PAINTER",
@@ -3994,7 +4001,7 @@
         "advance": "60.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.735Z"
+    "lastUpdated": "2026-03-26T15:32:07.331Z"
   },
   {
     "name": "ARUN KUMAR",
@@ -4004,7 +4011,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.735Z"
+    "lastUpdated": "2026-03-26T15:32:07.331Z"
   },
   {
     "name": "JANGATHI  AMARDEEP",
@@ -4023,7 +4030,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.736Z"
+    "lastUpdated": "2026-03-26T15:32:07.332Z"
   },
   {
     "name": "FEZU FEZAN",
@@ -4033,7 +4040,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.736Z"
+    "lastUpdated": "2026-03-26T15:32:07.332Z"
   },
   {
     "name": "ROHIT",
@@ -4043,7 +4050,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.736Z"
+    "lastUpdated": "2026-03-26T15:32:07.332Z"
   },
   {
     "name": "SONU GUPTA",
@@ -4053,7 +4060,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.736Z"
+    "lastUpdated": "2026-03-26T15:32:07.332Z"
   },
   {
     "name": "CHINTU PAINTER",
@@ -4063,7 +4070,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.737Z"
+    "lastUpdated": "2026-03-26T15:32:07.333Z"
   },
   {
     "name": "SANDEEP ",
@@ -4073,7 +4080,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.737Z"
+    "lastUpdated": "2026-03-26T15:32:07.333Z"
   },
   {
     "name": "AJAY",
@@ -4083,7 +4090,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.737Z"
+    "lastUpdated": "2026-03-26T15:32:07.333Z"
   },
   {
     "name": "ROHITE PAINTER",
@@ -4093,7 +4100,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.738Z"
+    "lastUpdated": "2026-03-26T15:32:07.333Z"
   },
   {
     "name": "GULLU PAINTER",
@@ -4103,7 +4110,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.738Z"
+    "lastUpdated": "2026-03-26T15:32:07.334Z"
   },
   {
     "name": "DEEPAK",
@@ -4113,7 +4120,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.738Z"
+    "lastUpdated": "2026-03-26T15:32:07.334Z"
   },
   {
     "name": "OMPAL SHINGH",
@@ -4123,7 +4130,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.738Z"
+    "lastUpdated": "2026-03-26T15:32:07.334Z"
   },
   {
     "name": "FIROZ PAINTER",
@@ -4190,7 +4197,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.739Z"
+    "lastUpdated": "2026-03-26T15:32:07.334Z"
   },
   {
     "name": "SONU",
@@ -4200,7 +4207,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.739Z"
+    "lastUpdated": "2026-03-26T15:32:07.335Z"
   },
   {
     "name": "VIKARANT KUMAR",
@@ -4237,7 +4244,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.739Z"
+    "lastUpdated": "2026-03-26T15:32:07.335Z"
   },
   {
     "name": "FRIOZ E METRO",
@@ -4247,7 +4254,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.740Z"
+    "lastUpdated": "2026-03-26T15:32:07.335Z"
   },
   {
     "name": "AMAR PAL JI",
@@ -4257,7 +4264,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.740Z"
+    "lastUpdated": "2026-03-26T15:32:07.336Z"
   },
   {
     "name": "JITINDER PAINTER",
@@ -4267,7 +4274,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.740Z"
+    "lastUpdated": "2026-03-26T15:32:07.336Z"
   },
   {
     "name": "MINTU PULMBER",
@@ -4277,7 +4284,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.741Z"
+    "lastUpdated": "2026-03-26T15:32:07.337Z"
   },
   {
     "name": "ADDVOCATE",
@@ -4287,7 +4294,7 @@
     "advanceAmount": "2000.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.741Z"
+    "lastUpdated": "2026-03-26T15:32:07.337Z"
   },
   {
     "name": "GARG PAINTS[NITIN]",
@@ -4306,7 +4313,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.741Z"
+    "lastUpdated": "2026-03-26T15:32:07.337Z"
   },
   {
     "name": "SAGAR DC",
@@ -4316,7 +4323,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.741Z"
+    "lastUpdated": "2026-03-26T15:32:07.337Z"
   },
   {
     "name": "AMAR GOYAL JI",
@@ -4326,7 +4333,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.742Z"
+    "lastUpdated": "2026-03-26T15:32:07.338Z"
   },
   {
     "name": "NERANDER [SUNRISE]",
@@ -4345,7 +4352,7 @@
         "advance": "630.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.742Z"
+    "lastUpdated": "2026-03-26T15:32:07.338Z"
   },
   {
     "name": "NIRANJAN",
@@ -4355,7 +4362,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.742Z"
+    "lastUpdated": "2026-03-26T15:32:07.339Z"
   },
   {
     "name": "AMIT LAL PATOLOGI LAB",
@@ -4365,7 +4372,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.743Z"
+    "lastUpdated": "2026-03-26T15:32:07.339Z"
   },
   {
     "name": "DEVENDER PAINTER",
@@ -4375,7 +4382,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.743Z"
+    "lastUpdated": "2026-03-26T15:32:07.339Z"
   },
   {
     "name": "CHANDU",
@@ -4394,7 +4401,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.743Z"
+    "lastUpdated": "2026-03-26T15:32:07.339Z"
   },
   {
     "name": "BABLU [GASOLI]",
@@ -4419,7 +4426,7 @@
         "advance": "100.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.743Z"
+    "lastUpdated": "2026-03-26T15:32:07.339Z"
   },
   {
     "name": "CHIRG GUPATA",
@@ -4429,7 +4436,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.744Z"
+    "lastUpdated": "2026-03-26T15:32:07.340Z"
   },
   {
     "name": "SALIM PAINTER ",
@@ -4439,7 +4446,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.744Z"
+    "lastUpdated": "2026-03-26T15:32:07.340Z"
   },
   {
     "name": "SAKIB PAINTER",
@@ -4449,7 +4456,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.744Z"
+    "lastUpdated": "2026-03-26T15:32:07.340Z"
   },
   {
     "name": "MAHIPAL SINGH ",
@@ -4459,7 +4466,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.745Z"
+    "lastUpdated": "2026-03-26T15:32:07.341Z"
   },
   {
     "name": "VANSH SHARMA JI",
@@ -4469,7 +4476,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.745Z"
+    "lastUpdated": "2026-03-26T15:32:07.341Z"
   },
   {
     "name": "PERDEEP PUNIYA JI ",
@@ -4488,7 +4495,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.745Z"
+    "lastUpdated": "2026-03-26T15:32:07.341Z"
   },
   {
     "name": "SONU GUPTA ",
@@ -4498,7 +4505,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.746Z"
+    "lastUpdated": "2026-03-26T15:32:07.342Z"
   },
   {
     "name": "VAJAY SHUKLA JI",
@@ -4508,7 +4515,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.746Z"
+    "lastUpdated": "2026-03-26T15:32:07.342Z"
   },
   {
     "name": "SUNIL CHOUDARY JI",
@@ -4518,7 +4525,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.746Z"
+    "lastUpdated": "2026-03-26T15:32:07.342Z"
   },
   {
     "name": "JAYCHAND VERMA JI",
@@ -4528,7 +4535,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.747Z"
+    "lastUpdated": "2026-03-26T15:32:07.343Z"
   },
   {
     "name": "PARVEEN PAINTER",
@@ -4538,7 +4545,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.747Z"
+    "lastUpdated": "2026-03-26T15:32:07.343Z"
   },
   {
     "name": "SUBASH CHAND",
@@ -4548,7 +4555,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.747Z"
+    "lastUpdated": "2026-03-26T15:32:07.344Z"
   },
   {
     "name": "POP ASHARF",
@@ -4558,7 +4565,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.748Z"
+    "lastUpdated": "2026-03-26T15:32:07.344Z"
   },
   {
     "name": "CHAUDERY TRADERS",
@@ -4577,7 +4584,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.748Z"
+    "lastUpdated": "2026-03-26T15:32:07.344Z"
   },
   {
     "name": "CD VIJANDER POHILEY",
@@ -4587,7 +4594,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.748Z"
+    "lastUpdated": "2026-03-26T15:32:07.344Z"
   },
   {
     "name": "SALAM DHABA",
@@ -4597,7 +4604,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.749Z"
+    "lastUpdated": "2026-03-26T15:32:07.344Z"
   },
   {
     "name": "MONU  SANMERT PAINT",
@@ -4607,7 +4614,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.749Z"
+    "lastUpdated": "2026-03-26T15:32:07.345Z"
   },
   {
     "name": "NADEEM JABTVA",
@@ -4617,7 +4624,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.749Z"
+    "lastUpdated": "2026-03-26T15:32:07.345Z"
   },
   {
     "name": "NERASH PALAMBER",
@@ -4627,7 +4634,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.749Z"
+    "lastUpdated": "2026-03-26T15:32:07.345Z"
   },
   {
     "name": "SARIK PAINTS",
@@ -4712,7 +4719,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.750Z"
+    "lastUpdated": "2026-03-26T15:32:07.345Z"
   },
   {
     "name": "BIRPAL PAINTER",
@@ -4722,7 +4729,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.750Z"
+    "lastUpdated": "2026-03-26T15:32:07.346Z"
   },
   {
     "name": "BHOOP SINGH JI ",
@@ -4732,7 +4739,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.750Z"
+    "lastUpdated": "2026-03-26T15:32:07.346Z"
   },
   {
     "name": "RAJIVE",
@@ -4742,7 +4749,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.750Z"
+    "lastUpdated": "2026-03-26T15:32:07.346Z"
   },
   {
     "name": "FIROZ PHOLI PANTER ",
@@ -4761,7 +4768,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.751Z"
+    "lastUpdated": "2026-03-26T15:32:07.347Z"
   },
   {
     "name": "VANSH  CHOUDARY JI",
@@ -4780,7 +4787,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.751Z"
+    "lastUpdated": "2026-03-26T15:32:07.347Z"
   },
   {
     "name": "GORAV PUNIYA I-69",
@@ -4790,7 +4797,7 @@
     "advanceAmount": "5000.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.751Z"
+    "lastUpdated": "2026-03-26T15:32:07.347Z"
   },
   {
     "name": "SONU CHOUDARY JI",
@@ -4935,7 +4942,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.752Z"
+    "lastUpdated": "2026-03-26T15:32:07.348Z"
   },
   {
     "name": "PARVENDER JI",
@@ -4945,7 +4952,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.752Z"
+    "lastUpdated": "2026-03-26T15:32:07.348Z"
   },
   {
     "name": "M S TAYGI JI",
@@ -4976,7 +4983,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.752Z"
+    "lastUpdated": "2026-03-26T15:32:07.348Z"
   },
   {
     "name": "SACHIN BATJAVRA ",
@@ -5001,7 +5008,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.753Z"
+    "lastUpdated": "2026-03-26T15:32:07.348Z"
   },
   {
     "name": "RAJIV CHOUDARY JI ",
@@ -5011,7 +5018,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.753Z"
+    "lastUpdated": "2026-03-26T15:32:07.349Z"
   },
   {
     "name": "SUNIL CHOUDARY JI G 39",
@@ -5021,7 +5028,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.753Z"
+    "lastUpdated": "2026-03-26T15:32:07.349Z"
   },
   {
     "name": "RAJESH PAINTER",
@@ -5031,7 +5038,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.753Z"
+    "lastUpdated": "2026-03-26T15:32:07.349Z"
   },
   {
     "name": "UDIT ",
@@ -5041,7 +5048,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.753Z"
+    "lastUpdated": "2026-03-26T15:32:07.350Z"
   },
   {
     "name": "ANIL DREAM CITY",
@@ -5051,7 +5058,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.754Z"
+    "lastUpdated": "2026-03-26T15:32:07.350Z"
   },
   {
     "name": "NITIN DREAM CITY ",
@@ -5061,7 +5068,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.754Z"
+    "lastUpdated": "2026-03-26T15:32:07.350Z"
   },
   {
     "name": "SHIVAM DAGREE JI",
@@ -5071,7 +5078,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.754Z"
+    "lastUpdated": "2026-03-26T15:32:07.351Z"
   },
   {
     "name": "AJAY SHARMA ",
@@ -5090,7 +5097,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.754Z"
+    "lastUpdated": "2026-03-26T15:32:07.351Z"
   },
   {
     "name": "YOGESH GOSWAMI JI",
@@ -5115,7 +5122,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.754Z"
+    "lastUpdated": "2026-03-26T15:32:07.351Z"
   },
   {
     "name": "SONU DREAM CITY",
@@ -5125,7 +5132,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.755Z"
+    "lastUpdated": "2026-03-26T15:32:07.351Z"
   },
   {
     "name": "LOVELY CHOUDARY JI",
@@ -5135,7 +5142,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.755Z"
+    "lastUpdated": "2026-03-26T15:32:07.352Z"
   },
   {
     "name": "Test Customer 1",
@@ -5145,7 +5152,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.755Z"
+    "lastUpdated": "2026-03-26T15:32:07.352Z"
   },
   {
     "name": "Test Customer 2",
@@ -5155,7 +5162,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.756Z"
+    "lastUpdated": "2026-03-26T15:32:07.352Z"
   },
   {
     "name": "Test Customer 3",
@@ -5165,7 +5172,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.756Z"
+    "lastUpdated": "2026-03-26T15:32:07.353Z"
   },
   {
     "name": "Test Customer 4",
@@ -5175,7 +5182,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.756Z"
+    "lastUpdated": "2026-03-26T15:32:07.353Z"
   },
   {
     "name": "Test Customer 5",
@@ -5185,7 +5192,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.757Z"
+    "lastUpdated": "2026-03-26T15:32:07.353Z"
   },
   {
     "name": "RHOIT ",
@@ -5195,7 +5202,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.757Z"
+    "lastUpdated": "2026-03-26T15:32:07.353Z"
   },
   {
     "name": "NEERAJ CHOUAN JI",
@@ -5205,7 +5212,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.757Z"
+    "lastUpdated": "2026-03-26T15:32:07.354Z"
   },
   {
     "name": "S K SING",
@@ -5215,7 +5222,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.758Z"
+    "lastUpdated": "2026-03-26T15:32:07.354Z"
   },
   {
     "name": "GUDDO ",
@@ -5234,7 +5241,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.758Z"
+    "lastUpdated": "2026-03-26T15:32:07.354Z"
   },
   {
     "name": "SHUDIR ",
@@ -5253,7 +5260,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.758Z"
+    "lastUpdated": "2026-03-26T15:32:07.354Z"
   },
   {
     "name": "ARJUN PAINTER",
@@ -5272,7 +5279,7 @@
         "advance": "1000.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.758Z"
+    "lastUpdated": "2026-03-26T15:32:07.355Z"
   },
   {
     "name": "KULVEER SINGH JI ",
@@ -5282,7 +5289,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.759Z"
+    "lastUpdated": "2026-03-26T15:32:07.355Z"
   },
   {
     "name": "NITIN PATTAWLA ",
@@ -5292,7 +5299,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.759Z"
+    "lastUpdated": "2026-03-26T15:32:07.356Z"
   },
   {
     "name": "SHIVAM PAL",
@@ -5302,7 +5309,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.759Z"
+    "lastUpdated": "2026-03-26T15:32:07.356Z"
   },
   {
     "name": "NAVID POP",
@@ -5312,7 +5319,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.760Z"
+    "lastUpdated": "2026-03-26T15:32:07.356Z"
   },
   {
     "name": "ANIL JAVERI ",
@@ -5331,7 +5338,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.760Z"
+    "lastUpdated": "2026-03-26T15:32:07.357Z"
   },
   {
     "name": "PAPLE MILK",
@@ -5341,7 +5348,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.760Z"
+    "lastUpdated": "2026-03-26T15:32:07.357Z"
   },
   {
     "name": "KIRASHNA MITTIAL ",
@@ -5360,7 +5367,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.761Z"
+    "lastUpdated": "2026-03-26T15:32:07.357Z"
   },
   {
     "name": "POP AASHIF",
@@ -5370,7 +5377,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.761Z"
+    "lastUpdated": "2026-03-26T15:32:07.358Z"
   },
   {
     "name": "RAJ DRIVER",
@@ -5389,7 +5396,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.761Z"
+    "lastUpdated": "2026-03-26T15:32:07.358Z"
   },
   {
     "name": "RHOIT",
@@ -5399,7 +5406,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.762Z"
+    "lastUpdated": "2026-03-26T15:32:07.359Z"
   },
   {
     "name": "OMKAR JI",
@@ -5409,7 +5416,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.762Z"
+    "lastUpdated": "2026-03-26T15:32:07.359Z"
   },
   {
     "name": "KAPIL KUMAR",
@@ -5419,7 +5426,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.763Z"
+    "lastUpdated": "2026-03-26T15:32:07.359Z"
   },
   {
     "name": "MHOIT SOM",
@@ -5429,7 +5436,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.763Z"
+    "lastUpdated": "2026-03-26T15:32:07.359Z"
   },
   {
     "name": "Aadesh Cilling",
@@ -5448,7 +5455,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.763Z"
+    "lastUpdated": "2026-03-26T15:32:07.360Z"
   },
   {
     "name": "KARAN",
@@ -5458,7 +5465,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.763Z"
+    "lastUpdated": "2026-03-26T15:32:07.360Z"
   },
   {
     "name": "SANJAY PAINTER",
@@ -5477,7 +5484,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.764Z"
+    "lastUpdated": "2026-03-26T15:32:07.360Z"
   },
   {
     "name": "VISHAL PAINTER",
@@ -5487,7 +5494,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.764Z"
+    "lastUpdated": "2026-03-26T15:32:07.361Z"
   },
   {
     "name": "ANIL BHUDANA PAINTER",
@@ -5497,7 +5504,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.764Z"
+    "lastUpdated": "2026-03-26T15:32:07.361Z"
   },
   {
     "name": "AUDVEER SINGH JI",
@@ -5507,7 +5514,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.765Z"
+    "lastUpdated": "2026-03-26T15:32:07.361Z"
   },
   {
     "name": "SANJAY JI",
@@ -5517,7 +5524,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.765Z"
+    "lastUpdated": "2026-03-26T15:32:07.361Z"
   },
   {
     "name": "PARVEEN",
@@ -5527,7 +5534,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.765Z"
+    "lastUpdated": "2026-03-26T15:32:07.362Z"
   },
   {
     "name": "ANUJ  DREAM CITY",
@@ -5537,7 +5544,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.766Z"
+    "lastUpdated": "2026-03-26T15:32:07.362Z"
   },
   {
     "name": "DILSAHD POPY",
@@ -5547,7 +5554,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.766Z"
+    "lastUpdated": "2026-03-26T15:32:07.362Z"
   },
   {
     "name": "PAWAN PAINTER",
@@ -5557,7 +5564,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.766Z"
+    "lastUpdated": "2026-03-26T15:32:07.363Z"
   },
   {
     "name": "ANUJ SAINI",
@@ -5567,7 +5574,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.767Z"
+    "lastUpdated": "2026-03-26T15:32:07.363Z"
   },
   {
     "name": "PARMOD KUMAR",
@@ -5577,7 +5584,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.767Z"
+    "lastUpdated": "2026-03-26T15:32:07.363Z"
   },
   {
     "name": "SHARAVAT JI",
@@ -5587,7 +5594,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.767Z"
+    "lastUpdated": "2026-03-26T15:32:07.364Z"
   },
   {
     "name": "SANJIVE BALIYAN ",
@@ -5597,7 +5604,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.768Z"
+    "lastUpdated": "2026-03-26T15:32:07.364Z"
   },
   {
     "name": "TAJPAL SINGH JI",
@@ -5616,7 +5623,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.768Z"
+    "lastUpdated": "2026-03-26T15:32:07.364Z"
   },
   {
     "name": "PRIYANSHU ",
@@ -5626,7 +5633,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.768Z"
+    "lastUpdated": "2026-03-26T15:32:07.365Z"
   },
   {
     "name": "SACHIN PAINTER BHOPAl",
@@ -5636,7 +5643,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.769Z"
+    "lastUpdated": "2026-03-26T15:32:07.365Z"
   },
   {
     "name": "SAROK POPY",
@@ -5646,7 +5653,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.769Z"
+    "lastUpdated": "2026-03-26T15:32:07.365Z"
   },
   {
     "name": "ANIL SUNRISE",
@@ -5665,7 +5672,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.769Z"
+    "lastUpdated": "2026-03-26T15:32:07.366Z"
   },
   {
     "name": "MIRDULE",
@@ -5675,7 +5682,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.769Z"
+    "lastUpdated": "2026-03-26T15:32:07.366Z"
   },
   {
     "name": "RAVINDER (FOJI PRPPERTEY)",
@@ -5685,7 +5692,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.770Z"
+    "lastUpdated": "2026-03-26T15:32:07.366Z"
   },
   {
     "name": "SHIVANI PAL",
@@ -5716,7 +5723,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.770Z"
+    "lastUpdated": "2026-03-26T15:32:07.366Z"
   },
   {
     "name": "KHUSHI",
@@ -5726,7 +5733,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.770Z"
+    "lastUpdated": "2026-03-26T15:32:07.367Z"
   },
   {
     "name": "SHAJAD PAINTER",
@@ -5736,7 +5743,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.771Z"
+    "lastUpdated": "2026-03-26T15:32:07.367Z"
   },
   {
     "name": "TERILOK",
@@ -5746,7 +5753,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.771Z"
+    "lastUpdated": "2026-03-26T15:32:07.367Z"
   },
   {
     "name": "SACHIN  PAINTER",
@@ -5756,7 +5763,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.771Z"
+    "lastUpdated": "2026-03-26T15:32:07.368Z"
   },
   {
     "name": "GORAV GUPTA C 84",
@@ -5775,7 +5782,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.772Z"
+    "lastUpdated": "2026-03-26T15:32:07.368Z"
   },
   {
     "name": "SHOBER  PAVER",
@@ -5800,7 +5807,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.772Z"
+    "lastUpdated": "2026-03-26T15:32:07.368Z"
   },
   {
     "name": "DEVENDER NELKANT",
@@ -5810,7 +5817,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.772Z"
+    "lastUpdated": "2026-03-26T15:32:07.368Z"
   },
   {
     "name": "PRINCE WELLIDING",
@@ -5820,7 +5827,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.773Z"
+    "lastUpdated": "2026-03-26T15:32:07.368Z"
   },
   {
     "name": "AMIT",
@@ -5830,7 +5837,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.773Z"
+    "lastUpdated": "2026-03-26T15:32:07.369Z"
   },
   {
     "name": "SHAID CONCTAR",
@@ -5840,7 +5847,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.773Z"
+    "lastUpdated": "2026-03-26T15:32:07.369Z"
   },
   {
     "name": "NISHANT ",
@@ -5850,7 +5857,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.773Z"
+    "lastUpdated": "2026-03-26T15:32:07.369Z"
   },
   {
     "name": "SATISH PAINT ",
@@ -5869,7 +5876,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.774Z"
+    "lastUpdated": "2026-03-26T15:32:07.370Z"
   },
   {
     "name": "RK SINGH",
@@ -5888,7 +5895,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.774Z"
+    "lastUpdated": "2026-03-26T15:32:07.370Z"
   },
   {
     "name": "NARESH KUMAR",
@@ -5898,7 +5905,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.774Z"
+    "lastUpdated": "2026-03-26T15:32:07.370Z"
   },
   {
     "name": "AADIYIA MASTER JI ",
@@ -5908,7 +5915,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.775Z"
+    "lastUpdated": "2026-03-26T15:32:07.371Z"
   },
   {
     "name": "SATENDER MASTER  JI",
@@ -5927,7 +5934,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.775Z"
+    "lastUpdated": "2026-03-26T15:32:07.371Z"
   },
   {
     "name": "ARPIT HOLIYFATH AB 78",
@@ -5970,7 +5977,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.775Z"
+    "lastUpdated": "2026-03-26T15:32:07.371Z"
   },
   {
     "name": "PARMOD JI",
@@ -5980,7 +5987,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.775Z"
+    "lastUpdated": "2026-03-26T15:32:07.372Z"
   },
   {
     "name": "PAWAN JI NELKANT",
@@ -5990,7 +5997,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.776Z"
+    "lastUpdated": "2026-03-26T15:32:07.372Z"
   },
   {
     "name": "RITIK PHOLI",
@@ -6009,7 +6016,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.776Z"
+    "lastUpdated": "2026-03-26T15:32:07.372Z"
   },
   {
     "name": "SANDEEP KUMAR",
@@ -6019,7 +6026,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.776Z"
+    "lastUpdated": "2026-03-26T15:32:07.373Z"
   },
   {
     "name": "RAHUL GARAJ",
@@ -6044,7 +6051,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.777Z"
+    "lastUpdated": "2026-03-26T15:32:07.373Z"
   },
   {
     "name": "RAVI BEJLIWALA",
@@ -6054,7 +6061,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.777Z"
+    "lastUpdated": "2026-03-26T15:32:07.373Z"
   },
   {
     "name": "PARVEEN JATOLI",
@@ -6064,7 +6071,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.777Z"
+    "lastUpdated": "2026-03-26T15:32:07.373Z"
   },
   {
     "name": "ARJUN SINGH",
@@ -6074,7 +6081,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.778Z"
+    "lastUpdated": "2026-03-26T15:32:07.374Z"
   },
   {
     "name": "MADHUSUDAN RAJPUT",
@@ -6084,7 +6091,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.778Z"
+    "lastUpdated": "2026-03-26T15:32:07.374Z"
   },
   {
     "name": "NERANDER METRO",
@@ -6094,7 +6101,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.778Z"
+    "lastUpdated": "2026-03-26T15:32:07.374Z"
   },
   {
     "name": "Sudhir",
@@ -6113,7 +6120,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.779Z"
+    "lastUpdated": "2026-03-26T15:32:07.375Z"
   },
   {
     "name": "ABIT  PAINTER",
@@ -6123,7 +6130,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.779Z"
+    "lastUpdated": "2026-03-26T15:32:07.375Z"
   },
   {
     "name": "SUMIT",
@@ -6133,7 +6140,7 @@
     "advanceAmount": "1900.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.779Z"
+    "lastUpdated": "2026-03-26T15:32:07.375Z"
   },
   {
     "name": "vijay tomar ",
@@ -6143,7 +6150,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.780Z"
+    "lastUpdated": "2026-03-26T15:32:07.376Z"
   },
   {
     "name": "ANUJ RATI ",
@@ -6168,7 +6175,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.780Z"
+    "lastUpdated": "2026-03-26T15:32:07.376Z"
   },
   {
     "name": "GORAV GUPTA 95",
@@ -6187,7 +6194,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.780Z"
+    "lastUpdated": "2026-03-26T15:32:07.376Z"
   },
   {
     "name": "SAFI WELDING",
@@ -6197,7 +6204,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.781Z"
+    "lastUpdated": "2026-03-26T15:32:07.377Z"
   },
   {
     "name": "PARVESH TAYGI",
@@ -6216,7 +6223,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.781Z"
+    "lastUpdated": "2026-03-26T15:32:07.377Z"
   },
   {
     "name": "GARG SANATERI STORE ",
@@ -6226,7 +6233,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.781Z"
+    "lastUpdated": "2026-03-26T15:32:07.377Z"
   },
   {
     "name": "SANJIV KUMAR ",
@@ -6236,7 +6243,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.782Z"
+    "lastUpdated": "2026-03-26T15:32:07.378Z"
   },
   {
     "name": "RAHUL PAL ",
@@ -6255,7 +6262,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.782Z"
+    "lastUpdated": "2026-03-26T15:32:07.378Z"
   },
   {
     "name": "PAREED RATI ",
@@ -6265,7 +6272,7 @@
     "advanceAmount": "4880.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.782Z"
+    "lastUpdated": "2026-03-26T15:32:07.378Z"
   },
   {
     "name": "ADESH SHARMA",
@@ -6284,7 +6291,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.783Z"
+    "lastUpdated": "2026-03-26T15:32:07.379Z"
   },
   {
     "name": "ABSHIAK CHOUDARY",
@@ -6294,7 +6301,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.783Z"
+    "lastUpdated": "2026-03-26T15:32:07.379Z"
   },
   {
     "name": "FOJIE BHAI ",
@@ -6313,7 +6320,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.783Z"
+    "lastUpdated": "2026-03-26T15:32:07.379Z"
   },
   {
     "name": "VARDHAMAN PAINT ",
@@ -6332,7 +6339,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.783Z"
+    "lastUpdated": "2026-03-26T15:32:07.380Z"
   },
   {
     "name": "HITAARTH TYAGI",
@@ -6342,7 +6349,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.784Z"
+    "lastUpdated": "2026-03-26T15:32:07.380Z"
   },
   {
     "name": "SULTAN PAINTER",
@@ -6352,7 +6359,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.784Z"
+    "lastUpdated": "2026-03-26T15:32:07.380Z"
   },
   {
     "name": "RAMBEER ",
@@ -6362,7 +6369,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.784Z"
+    "lastUpdated": "2026-03-26T15:32:07.381Z"
   },
   {
     "name": "PARDEEP 75 GAJ ",
@@ -6423,7 +6430,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.784Z"
+    "lastUpdated": "2026-03-26T15:32:07.381Z"
   },
   {
     "name": "MOHIT KUMAR DREAM CITY",
@@ -6433,7 +6440,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.785Z"
+    "lastUpdated": "2026-03-26T15:32:07.381Z"
   },
   {
     "name": "AMART SINGH ",
@@ -6443,7 +6450,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.785Z"
+    "lastUpdated": "2026-03-26T15:32:07.382Z"
   },
   {
     "name": "SHIV PARKESH ",
@@ -6453,7 +6460,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.785Z"
+    "lastUpdated": "2026-03-26T15:32:07.382Z"
   },
   {
     "name": "PARMVEER MALIK JI",
@@ -6463,7 +6470,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.785Z"
+    "lastUpdated": "2026-03-26T15:32:07.382Z"
   },
   {
     "name": "GAGAN MALIK",
@@ -6473,7 +6480,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.786Z"
+    "lastUpdated": "2026-03-26T15:32:07.382Z"
   },
   {
     "name": "KAWARPAL POLISH PAINTER",
@@ -6483,7 +6490,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.786Z"
+    "lastUpdated": "2026-03-26T15:32:07.383Z"
   },
   {
     "name": "SURJEET SINGH ",
@@ -6493,7 +6500,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.786Z"
+    "lastUpdated": "2026-03-26T15:32:07.383Z"
   },
   {
     "name": "TASLIM POPY",
@@ -6503,7 +6510,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.786Z"
+    "lastUpdated": "2026-03-26T15:32:07.384Z"
   },
   {
     "name": "SHIV KUMAR PAINTER",
@@ -6513,7 +6520,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.787Z"
+    "lastUpdated": "2026-03-26T15:32:07.384Z"
   },
   {
     "name": "YASPAL SAKSHANA  JI ",
@@ -6523,7 +6530,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.787Z"
+    "lastUpdated": "2026-03-26T15:32:07.384Z"
   },
   {
     "name": "JONEY MITTIAL",
@@ -6533,7 +6540,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.787Z"
+    "lastUpdated": "2026-03-26T15:32:07.384Z"
   },
   {
     "name": "PARVEEN CHACHA JI ",
@@ -6642,7 +6649,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.787Z"
+    "lastUpdated": "2026-03-26T15:32:07.385Z"
   },
   {
     "name": "MANISH KUMAR  POPY",
@@ -6673,7 +6680,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.788Z"
+    "lastUpdated": "2026-03-26T15:32:07.385Z"
   },
   {
     "name": "ANUJ DHAROGA JI ",
@@ -6698,7 +6705,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.788Z"
+    "lastUpdated": "2026-03-26T15:32:07.385Z"
   },
   {
     "name": "NP TOMAR ",
@@ -6723,7 +6730,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.788Z"
+    "lastUpdated": "2026-03-26T15:32:07.386Z"
   },
   {
     "name": "PANKAJ AGRWAL  AB  167",
@@ -6742,7 +6749,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.788Z"
+    "lastUpdated": "2026-03-26T15:32:07.386Z"
   },
   {
     "name": "SAREJET PAINTER",
@@ -6752,7 +6759,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.789Z"
+    "lastUpdated": "2026-03-26T15:32:07.386Z"
   },
   {
     "name": "JAYSINGH JI",
@@ -6777,7 +6784,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.789Z"
+    "lastUpdated": "2026-03-26T15:32:07.387Z"
   },
   {
     "name": "Mahadev Paint (Anuj)",
@@ -6796,7 +6803,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.789Z"
+    "lastUpdated": "2026-03-26T15:32:07.387Z"
   },
   {
     "name": "PARMOD MASTER JI",
@@ -6806,7 +6813,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.789Z"
+    "lastUpdated": "2026-03-26T15:32:07.387Z"
   },
   {
     "name": "MHAK SINGH",
@@ -6816,7 +6823,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.789Z"
+    "lastUpdated": "2026-03-26T15:32:07.387Z"
   },
   {
     "name": "NARENDER MASTER JI",
@@ -6826,7 +6833,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.790Z"
+    "lastUpdated": "2026-03-26T15:32:07.388Z"
   },
   {
     "name": "SONU  GATE NO 2",
@@ -6836,7 +6843,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.790Z"
+    "lastUpdated": "2026-03-26T15:32:07.388Z"
   },
   {
     "name": "VIPIN KUMAR ",
@@ -6846,7 +6853,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.790Z"
+    "lastUpdated": "2026-03-26T15:32:07.388Z"
   },
   {
     "name": "SHAJEJ DABTVA",
@@ -6856,7 +6863,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.790Z"
+    "lastUpdated": "2026-03-26T15:32:07.389Z"
   },
   {
     "name": "DEEPAK DREAM CITY",
@@ -6866,7 +6873,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.791Z"
+    "lastUpdated": "2026-03-26T15:32:07.389Z"
   },
   {
     "name": "KAPIL RANA",
@@ -6891,7 +6898,7 @@
         "advance": "100.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.791Z"
+    "lastUpdated": "2026-03-26T15:32:07.389Z"
   },
   {
     "name": "REENA JI",
@@ -6928,7 +6935,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.791Z"
+    "lastUpdated": "2026-03-26T15:32:07.389Z"
   },
   {
     "name": "DEEPAK DEEFINCE",
@@ -6947,7 +6954,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.792Z"
+    "lastUpdated": "2026-03-26T15:32:07.390Z"
   },
   {
     "name": "VIKASH PHOLI",
@@ -6957,7 +6964,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.792Z"
+    "lastUpdated": "2026-03-26T15:32:07.390Z"
   },
   {
     "name": "TAJPAL RANA JI",
@@ -6967,7 +6974,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.792Z"
+    "lastUpdated": "2026-03-26T15:32:07.390Z"
   },
   {
     "name": "PARVEEN JAWERI",
@@ -6977,7 +6984,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.792Z"
+    "lastUpdated": "2026-03-26T15:32:07.391Z"
   },
   {
     "name": "PANKAJ PAWAR ",
@@ -6987,7 +6994,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.793Z"
+    "lastUpdated": "2026-03-26T15:32:07.391Z"
   },
   {
     "name": "DHAROUV",
@@ -6997,7 +7004,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.793Z"
+    "lastUpdated": "2026-03-26T15:32:07.392Z"
   },
   {
     "name": "SHAME",
@@ -7016,7 +7023,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.793Z"
+    "lastUpdated": "2026-03-26T15:32:07.392Z"
   },
   {
     "name": "LAXMIE PAINTS ",
@@ -7026,7 +7033,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.793Z"
+    "lastUpdated": "2026-03-26T15:32:07.392Z"
   },
   {
     "name": "VAJAY SHARMA JI",
@@ -7036,7 +7043,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.793Z"
+    "lastUpdated": "2026-03-26T15:32:07.393Z"
   },
   {
     "name": "SACHIN ANAND",
@@ -7046,7 +7053,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.794Z"
+    "lastUpdated": "2026-03-26T15:32:07.393Z"
   },
   {
     "name": "SANJAY PAINTER",
@@ -7056,7 +7063,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.794Z"
+    "lastUpdated": "2026-03-26T15:32:07.393Z"
   },
   {
     "name": "DEEPU PAINTER",
@@ -7105,7 +7112,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.794Z"
+    "lastUpdated": "2026-03-26T15:32:07.393Z"
   },
   {
     "name": "GAGANDER SINGH ",
@@ -7115,7 +7122,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.794Z"
+    "lastUpdated": "2026-03-26T15:32:07.394Z"
   },
   {
     "name": "ROBIT TAYGI",
@@ -7125,7 +7132,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.794Z"
+    "lastUpdated": "2026-03-26T15:32:07.394Z"
   },
   {
     "name": "MAYANK RANA",
@@ -7135,7 +7142,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.795Z"
+    "lastUpdated": "2026-03-26T15:32:07.394Z"
   },
   {
     "name": "RAJANDER DASWAL",
@@ -7145,7 +7152,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.795Z"
+    "lastUpdated": "2026-03-26T15:32:07.394Z"
   },
   {
     "name": "ASHOK KUMAR ",
@@ -7164,7 +7171,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.795Z"
+    "lastUpdated": "2026-03-26T15:32:07.395Z"
   },
   {
     "name": "RAJA SURAya",
@@ -7174,7 +7181,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.795Z"
+    "lastUpdated": "2026-03-26T15:32:07.395Z"
   },
   {
     "name": "BABITA",
@@ -7184,7 +7191,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.795Z"
+    "lastUpdated": "2026-03-26T15:32:07.395Z"
   },
   {
     "name": "AJAY DREAM CITY",
@@ -7194,7 +7201,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.796Z"
+    "lastUpdated": "2026-03-26T15:32:07.395Z"
   },
   {
     "name": "CHEAK SINGH",
@@ -7249,7 +7256,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.796Z"
+    "lastUpdated": "2026-03-26T15:32:07.396Z"
   },
   {
     "name": "VISHAL",
@@ -7259,7 +7266,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.796Z"
+    "lastUpdated": "2026-03-26T15:32:07.396Z"
   },
   {
     "name": "PARLOR",
@@ -7269,7 +7276,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.796Z"
+    "lastUpdated": "2026-03-26T15:32:07.396Z"
   },
   {
     "name": "AJAY LAMBA ",
@@ -7294,7 +7301,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.796Z"
+    "lastUpdated": "2026-03-26T15:32:07.396Z"
   },
   {
     "name": "SANJU",
@@ -7304,7 +7311,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.797Z"
+    "lastUpdated": "2026-03-26T15:32:07.397Z"
   },
   {
     "name": "VIRPAL Solanki JI",
@@ -7323,7 +7330,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.797Z"
+    "lastUpdated": "2026-03-26T15:32:07.397Z"
   },
   {
     "name": "NITIN SHARMA",
@@ -7333,7 +7340,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.797Z"
+    "lastUpdated": "2026-03-26T15:32:07.397Z"
   },
   {
     "name": "VIKASHPAL",
@@ -7352,7 +7359,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.797Z"
+    "lastUpdated": "2026-03-26T15:32:07.398Z"
   },
   {
     "name": "ASHAN PAINTER",
@@ -7362,7 +7369,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.798Z"
+    "lastUpdated": "2026-03-26T15:32:07.398Z"
   },
   {
     "name": "ROHIT",
@@ -7372,7 +7379,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.798Z"
+    "lastUpdated": "2026-03-26T15:32:07.398Z"
   },
   {
     "name": "RAHUL KUMAR",
@@ -7397,7 +7404,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.798Z"
+    "lastUpdated": "2026-03-26T15:32:07.399Z"
   },
   {
     "name": "YASPAL JI 120 GAJ ",
@@ -7407,7 +7414,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.799Z"
+    "lastUpdated": "2026-03-26T15:32:07.399Z"
   },
   {
     "name": "CONTACTAR",
@@ -7417,7 +7424,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.799Z"
+    "lastUpdated": "2026-03-26T15:32:07.399Z"
   },
   {
     "name": "pop worker",
@@ -7427,7 +7434,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.799Z"
+    "lastUpdated": "2026-03-26T15:32:07.400Z"
   },
   {
     "name": "PAINTER ANIL",
@@ -7446,7 +7453,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.800Z"
+    "lastUpdated": "2026-03-26T15:32:07.400Z"
   },
   {
     "name": "JAYPRIYA LIGHT WALA",
@@ -7456,7 +7463,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.800Z"
+    "lastUpdated": "2026-03-26T15:32:07.400Z"
   },
   {
     "name": "DEV PROPRITEJ ",
@@ -7466,7 +7473,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.800Z"
+    "lastUpdated": "2026-03-26T15:32:07.400Z"
   },
   {
     "name": "VIKARNT DREAM CITY ",
@@ -7476,7 +7483,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.800Z"
+    "lastUpdated": "2026-03-26T15:32:07.400Z"
   },
   {
     "name": "DHARMENDER DREAM CITY",
@@ -7486,7 +7493,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.801Z"
+    "lastUpdated": "2026-03-26T15:32:07.401Z"
   },
   {
     "name": "SUBAS PAINTER",
@@ -7511,7 +7518,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.801Z"
+    "lastUpdated": "2026-03-26T15:32:07.401Z"
   },
   {
     "name": "GUN GUN WATER",
@@ -7530,7 +7537,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.801Z"
+    "lastUpdated": "2026-03-26T15:32:07.401Z"
   },
   {
     "name": "SAMER SINGH",
@@ -7540,7 +7547,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.801Z"
+    "lastUpdated": "2026-03-26T15:32:07.401Z"
   },
   {
     "name": "SP SINGH ",
@@ -7550,7 +7557,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.802Z"
+    "lastUpdated": "2026-03-26T15:32:07.402Z"
   },
   {
     "name": "SHDEV BANSAL",
@@ -7575,7 +7582,7 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.802Z"
+    "lastUpdated": "2026-03-26T15:32:07.402Z"
   },
   {
     "name": "AADAI DJ WALA",
@@ -7585,7 +7592,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.802Z"
+    "lastUpdated": "2026-03-26T15:32:07.402Z"
   },
   {
     "name": "ANAND DREAM CITY",
@@ -7595,7 +7602,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.802Z"
+    "lastUpdated": "2026-03-26T15:32:07.403Z"
   },
   {
     "name": "SONU KUMAR",
@@ -7605,7 +7612,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.802Z"
+    "lastUpdated": "2026-03-26T15:32:07.403Z"
   },
   {
     "name": "Test Customer 1",
@@ -7615,7 +7622,7 @@
     "advanceAmount": "0.00",
     "yearWisePending": {},
     "invoices": [],
-    "lastUpdated": "2026-03-26T15:31:43.803Z"
+    "lastUpdated": "2026-03-26T15:32:07.403Z"
   },
   {
     "name": "Agrim",
@@ -7634,6 +7641,6 @@
         "advance": "0.00"
       }
     ],
-    "lastUpdated": "2026-03-26T15:31:43.803Z"
+    "lastUpdated": "2026-03-26T15:32:07.404Z"
   }
 ]
