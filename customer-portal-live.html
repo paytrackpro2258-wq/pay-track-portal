@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pay Track Pro - Live Customer Portal</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+            width: 100%;
+            max-width: 500px;
+            animation: slideUp 0.5s ease-out;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            position: relative;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+
+        .live-indicator {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: #10b981;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        .live-dot {
+            width: 6px;
+            height: 6px;
+            background: white;
+            border-radius: 50%;
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .config-section {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid #e9ecef;
+        }
+
+        .config-section h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+
+        .config-section p {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+
+        .input-group {
+            position: relative;
+            margin-bottom: 15px;
+        }
+
+        .input-group input, .input-group select {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e1e8ed;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+
+        .input-group input:focus, .input-group select:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .input-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: #333;
+            font-weight: 500;
+            font-size: 14px;
+        }
+
+        .btn-primary {
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-bottom: 10px;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        .btn-secondary {
+            width: 100%;
+            padding: 12px;
+            background: #6c757d;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+
+        .search-section {
+            margin-bottom: 20px;
+        }
+
+        .input-group.search {
+            margin-bottom: 20px;
+        }
+
+        .input-group.search input {
+            padding: 15px 50px 15px 20px;
+            font-size: 16px;
+        }
+
+        .input-group .icon {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #667eea;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #667eea;
+        }
+
+        .loading i {
+            font-size: 24px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-left: 4px solid #c33;
+        }
+
+        .success {
+            background: #efe;
+            color: #3a3;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-left: 4px solid #3a3;
+        }
+
+        .info {
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-left: 4px solid #1976d2;
+        }
+
+        .customer-info {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid #e9ecef;
+            position: relative;
+        }
+
+        .customer-info h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            padding: 8px 0;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .info-row:last-child {
+            border-bottom: none;
+        }
+
+        .info-label {
+            color: #666;
+            font-weight: 500;
+        }
+
+        .info-value {
+            color: #333;
+            font-weight: 600;
+        }
+
+        .pending-amount {
+            color: #d4ac0d;
+            font-size: 18px;
+            font-weight: 700;
+        }
+
+        .advance-amount {
+            color: #28a745;
+            font-weight: 600;
+        }
+
+        .invoices-section {
+            margin-top: 20px;
+        }
+
+        .invoices-section h4 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+
+        .invoice-item {
+            background: white;
+            border: 1px solid #e9ecef;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+
+        .invoice-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .invoice-id {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .invoice-amount {
+            font-weight: 700;
+            color: #d4ac0d;
+        }
+
+        .invoice-date {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .year-wise-pending {
+            margin-top: 15px;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            border: 1px solid #e9ecef;
+        }
+
+        .year-wise-pending h4 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+
+        .year-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            padding: 5px 0;
+        }
+
+        .year-item.current-year {
+            color: #b91c1c;
+            font-weight: 700;
+        }
+
+        .year-item.other-year {
+            color: #666;
+            font-weight: normal;
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .no-data i {
+            font-size: 48px;
+            margin-bottom: 15px;
+            opacity: 0.5;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+            font-size: 12px;
+            border-top: 1px solid #e9ecef;
+        }
+
+        .last-updated {
+            text-align: center;
+            font-size: 11px;
+            color: #999;
+            margin-top: 10px;
+        }
+
+        .refresh-btn {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: none;
+            border: none;
+            color: #667eea;
+            cursor: pointer;
+            font-size: 16px;
+            padding: 5px;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+
+        .refresh-btn:hover {
+            background: #f0f0f0;
+        }
+
+        .refresh-btn.spinning i {
+            animation: spin 1s linear infinite;
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                margin: 10px;
+            }
+            
+            .header {
+                padding: 20px;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="live-indicator">
+                <div class="live-dot"></div>
+                LIVE
+            </div>
+            <h1><i class="fas fa-chart-line"></i> Pay Track Pro</h1>
+            <p>Live Customer Portal - Real-time Updates</p>
+        </div>
+
+        <div class="content">
+            <!-- Configuration Section -->
+            <div class="config-section" id="configSection">
+                <h3><i class="fas fa-cog"></i> Live Data Source</h3>
+                <p>Connect to real-time data source for automatic updates.</p>
+                
+                <div class="input-group">
+                    <label for="dataSource">Data Source</label>
+                    <select id="dataSource" onchange="toggleDataSource()" style="width: 100%; padding: 12px; border: 2px solid #e1e8ed; border-radius: 8px;">
+                        <option value="webhook">Webhook (Real-time)</option>
+                        <option value="json">JSON File (Auto-refresh)</option>
+                        <option value="public-sheet">Public Google Sheet</option>
+                        <option value="demo">Demo Data</option>
+                    </select>
+                </div>
+
+                <div id="webhookConfig">
+                    <div class="input-group">
+                        <label for="webhookUrl">Webhook URL</label>
+                        <input type="url" id="webhookUrl" placeholder="https://your-app.com/webhook/customer-data">
+                    </div>
+                    <div class="input-group">
+                        <label for="refreshInterval">Auto-refresh (seconds)</label>
+                        <input type="number" id="refreshInterval" value="30" min="5" max="300">
+                    </div>
+                </div>
+
+                <div id="jsonConfig" style="display: none;">
+                    <div class="input-group">
+                        <label for="jsonUrl">JSON File URL</label>
+                        <input type="url" id="jsonUrl" placeholder="https://your-site.github.io/customer-data.json">
+                    </div>
+                    <div class="input-group">
+                        <label for="jsonRefreshInterval">Auto-refresh (seconds)</label>
+                        <input type="number" id="jsonRefreshInterval" value="60" min="10" max="300">
+                    </div>
+                </div>
+
+                <div id="sheetConfig" style="display: none;">
+                    <div class="input-group">
+                        <label for="sheetId">Google Sheet ID</label>
+                        <input type="text" id="sheetId" placeholder="1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms">
+                    </div>
+                    <div class="input-group">
+                        <label for="sheetRefreshInterval">Auto-refresh (seconds)</label>
+                        <input type="number" id="sheetRefreshInterval" value="120" min="30" max="300">
+                    </div>
+                </div>
+
+                <button class="btn-primary" onclick="startLiveConnection()">
+                    <i class="fas fa-play"></i> Start Live Connection
+                </button>
+                <button class="btn-secondary" onclick="stopLiveConnection()" id="stopBtn" style="display: none;">
+                    <i class="fas fa-stop"></i> Stop Connection
+                </button>
+            </div>
+
+            <!-- Search Section -->
+            <div class="search-section" id="searchSection" style="display: none;">
+                <div class="input-group search">
+                    <input 
+                        type="tel" 
+                        id="phoneInput" 
+                        placeholder="Enter your phone number"
+                        maxlength="10"
+                        pattern="[0-9]*"
+                    >
+                    <i class="fas fa-phone icon"></i>
+                </div>
+                <button class="btn-primary" id="searchBtn" onclick="searchCustomer()">
+                    <i class="fas fa-search"></i> Check Account
+                </button>
+            </div>
+
+            <div id="loadingSection" class="loading" style="display: none;">
+                <i class="fas fa-spinner"></i>
+                <p>Loading your information...</p>
+            </div>
+
+            <div id="messageSection" style="display: none;"></div>
+
+            <div id="resultSection" style="display: none;">
+                <!-- Customer data will be displayed here -->
+            </div>
+
+            <div class="last-updated" id="lastUpdated" style="display: none;">
+                Last updated: <span id="updateTime">Never</span>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>© 2026 Pay Track Pro | Live Customer Portal</p>
+        </div>
+    </div>
+
+    <script>
+        let customerData = [];
+        let currentDataSource = 'webhook';
+        let refreshTimer = null;
+        let websocket = null;
+        let lastUpdateTime = null;
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            const phoneInput = document.getElementById('phoneInput');
+            
+            // Allow only numbers
+            if (phoneInput) {
+                phoneInput.addEventListener('input', function(e) {
+                    this.value = this.value.replace(/[^0-9]/g, '');
+                });
+                
+                // Allow Enter key to search
+                phoneInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        searchCustomer();
+                    }
+                });
+            }
+
+            // Load saved configuration
+            loadSavedConfig();
+        });
+
+        function toggleDataSource() {
+            const source = document.getElementById('dataSource').value;
+            currentDataSource = source;
+
+            const webhookConfig = document.getElementById('webhookConfig');
+            const jsonConfig = document.getElementById('jsonConfig');
+            const sheetConfig = document.getElementById('sheetConfig');
+
+            webhookConfig.style.display = source === 'webhook' ? 'block' : 'none';
+            jsonConfig.style.display = source === 'json' ? 'block' : 'none';
+            sheetConfig.style.display = source === 'public-sheet' ? 'block' : 'none';
+        }
+
+        function loadSavedConfig() {
+            const config = localStorage.getItem('livePortalConfig');
+            if (config) {
+                try {
+                    const settings = JSON.parse(config);
+                    document.getElementById('dataSource').value = settings.dataSource || 'webhook';
+                    document.getElementById('webhookUrl').value = settings.webhookUrl || '';
+                    document.getElementById('refreshInterval').value = settings.refreshInterval || 30;
+                    document.getElementById('jsonUrl').value = settings.jsonUrl || '';
+                    document.getElementById('jsonRefreshInterval').value = settings.jsonRefreshInterval || 60;
+                    document.getElementById('sheetId').value = settings.sheetId || '';
+                    document.getElementById('sheetRefreshInterval').value = settings.sheetRefreshInterval || 120;
+                    
+                    toggleDataSource();
+                } catch (error) {
+                    console.error('Error loading config:', error);
+                }
+            }
+        }
+
+        function saveConfig() {
+            const config = {
+                dataSource: document.getElementById('dataSource').value,
+                webhookUrl: document.getElementById('webhookUrl').value.trim(),
+                refreshInterval: parseInt(document.getElementById('refreshInterval').value),
+                jsonUrl: document.getElementById('jsonUrl').value.trim(),
+                jsonRefreshInterval: parseInt(document.getElementById('jsonRefreshInterval').value),
+                sheetId: document.getElementById('sheetId').value.trim(),
+                sheetRefreshInterval: parseInt(document.getElementById('sheetRefreshInterval').value)
+            };
+            
+            localStorage.setItem('livePortalConfig', JSON.stringify(config));
+        }
+
+        async function startLiveConnection() {
+            saveConfig();
+            
+            const source = document.getElementById('dataSource').value;
+            
+            showLoading('Connecting to live data...');
+            
+            try {
+                switch (source) {
+                    case 'webhook':
+                        await startWebhookConnection();
+                        break;
+                    case 'json':
+                        await startJSONConnection();
+                        break;
+                    case 'public-sheet':
+                        await startSheetConnection();
+                        break;
+                    case 'demo':
+                        await loadDemoData();
+                        break;
+                }
+                
+                document.getElementById('configSection').style.display = 'none';
+                document.getElementById('searchSection').style.display = 'block';
+                document.getElementById('stopBtn').style.display = 'block';
+                
+                showMessage('Live connection established!', 'success');
+                
+            } catch (error) {
+                showMessage('Failed to connect: ' + error.message, 'error');
+            }
+            
+            hideLoading();
+        }
+
+        async function startWebhookConnection() {
+            const webhookUrl = document.getElementById('webhookUrl').value.trim();
+            const refreshInterval = parseInt(document.getElementById('refreshInterval').value) * 1000;
+            
+            if (!webhookUrl) {
+                throw new Error('Please enter webhook URL');
+            }
+            
+            // Initial load
+            await loadDataFromWebhook(webhookUrl);
+            
+            // Set up auto-refresh
+            refreshTimer = setInterval(async () => {
+                try {
+                    await loadDataFromWebhook(webhookUrl);
+                    updateLastRefreshTime();
+                } catch (error) {
+                    console.error('Auto-refresh failed:', error);
+                }
+            }, refreshInterval);
+        }
+
+        async function startJSONConnection() {
+            const jsonUrl = document.getElementById('jsonUrl').value.trim();
+            const refreshInterval = parseInt(document.getElementById('jsonRefreshInterval').value) * 1000;
+            
+            if (!jsonUrl) {
+                throw new Error('Please enter JSON file URL');
+            }
+            
+            // Initial load
+            await loadJSONData(jsonUrl);
+            
+            // Set up auto-refresh
+            refreshTimer = setInterval(async () => {
+                try {
+                    await loadJSONData(jsonUrl);
+                    updateLastRefreshTime();
+                } catch (error) {
+                    console.error('Auto-refresh failed:', error);
+                }
+            }, refreshInterval);
+        }
+
+        async function startSheetConnection() {
+            const sheetId = document.getElementById('sheetId').value.trim();
+            const refreshInterval = parseInt(document.getElementById('sheetRefreshInterval').value) * 1000;
+            
+            if (!sheetId) {
+                throw new Error('Please enter Google Sheet ID');
+            }
+            
+            // Initial load
+            await loadPublicSheetData(sheetId);
+            
+            // Set up auto-refresh
+            refreshTimer = setInterval(async () => {
+                try {
+                    await loadPublicSheetData(sheetId);
+                    updateLastRefreshTime();
+                } catch (error) {
+                    console.error('Auto-refresh failed:', error);
+                }
+            }, refreshInterval);
+        }
+
+        function stopLiveConnection() {
+            if (refreshTimer) {
+                clearInterval(refreshTimer);
+                refreshTimer = null;
+            }
+            
+            if (websocket) {
+                websocket.close();
+                websocket = null;
+            }
+            
+            document.getElementById('configSection').style.display = 'block';
+            document.getElementById('searchSection').style.display = 'none';
+            document.getElementById('stopBtn').style.display = 'none';
+            document.getElementById('resultSection').style.display = 'none';
+            document.getElementById('lastUpdated').style.display = 'none';
+            
+            showMessage('Live connection stopped', 'info');
+        }
+
+        async function loadDataFromWebhook(webhookUrl) {
+            const response = await fetch(webhookUrl);
+            
+            if (!response.ok) {
+                throw new Error('Failed to load data from webhook');
+            }
+            
+            const data = await response.json();
+            
+            if (data.type === 'data_update' && data.data) {
+                customerData = data.data;
+            } else {
+                customerData = data;
+            }
+            
+            if (!Array.isArray(customerData)) {
+                throw new Error('Invalid data format');
+            }
+        }
+
+        async function loadJSONData(url) {
+            const response = await fetch(url);
+            
+            if (!response.ok) {
+                throw new Error('Failed to load JSON file');
+            }
+            
+            customerData = await response.json();
+            
+            if (!Array.isArray(customerData)) {
+                throw new Error('Invalid data format');
+            }
+        }
+
+        async function loadPublicSheetData(sheetId) {
+            const url = `https://docs.google.com/spreadsheets/d/${sheetId}/export?format=csv&gid=0`;
+            
+            const response = await fetch(url);
+            
+            if (!response.ok) {
+                throw new Error('Failed to load Google Sheet. Make sure it\'s publicly accessible.');
+            }
+            
+            const csvText = await response.text();
+            customerData = parseCSVToJSON(csvText);
+        }
+
+        function parseCSVToJSON(csvText) {
+            const lines = csvText.split('\n').filter(line => line.trim());
+            if (lines.length < 2) return [];
+
+            const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
+            const customers = [];
+
+            for (let i = 1; i < lines.length; i++) {
+                const values = lines[i].split(',').map(v => v.trim().replace(/"/g, ''));
+                const customer = {};
+
+                headers.forEach((header, index) => {
+                    customer[header.toLowerCase().replace(/\s+/g, '')] = values[index] || '';
+                });
+
+                // Ensure required fields
+                if (customer.phone) {
+                    customers.push({
+                        name: customer.name || 'N/A',
+                        phone: customer.phone,
+                        address: customer.address || 'N/A',
+                        pendingAmount: customer.pendingamount || '0.00',
+                        advanceAmount: customer.advanceamount || '0.00',
+                        yearWisePending: {},
+                        invoices: []
+                    });
+                }
+            }
+
+            return customers;
+        }
+
+        async function loadDemoData() {
+            customerData = [
+                {
+                    name: 'Demo Customer',
+                    phone: '9876543210',
+                    address: '123 Demo Street, Demo City',
+                    pendingAmount: '1500.00',
+                    advanceAmount: '500.00',
+                    yearWisePending: {
+                        '2024-25': '1000.00',
+                        '2023-24': '500.00'
+                    },
+                    invoices: [
+                        { id: 'INV001', date: '26-03-2026', amount: '800.00' },
+                        { id: 'INV002', date: '25-03-2026', amount: '700.00' }
+                    ]
+                },
+                {
+                    name: 'Test Customer',
+                    phone: '9876543211',
+                    address: '456 Test Avenue, Test City',
+                    pendingAmount: '800.00',
+                    advanceAmount: '0.00',
+                    yearWisePending: {
+                        '2024-25': '800.00'
+                    },
+                    invoices: [
+                        { id: 'INV003', date: '24-03-2026', amount: '800.00' }
+                    ]
+                }
+            ];
+            
+            // Simulate live updates
+            refreshTimer = setInterval(() => {
+                // Randomly update demo data
+                if (Math.random() > 0.7) {
+                    const randomCustomer = customerData[Math.floor(Math.random() * customerData.length)];
+                    const currentPending = parseFloat(randomCustomer.pendingAmount);
+                    const change = (Math.random() - 0.5) * 100;
+                    randomCustomer.pendingAmount = Math.max(0, currentPending + change).toFixed(2);
+                    randomCustomer.lastUpdated = new Date().toISOString();
+                    
+                    updateLastRefreshTime();
+                    
+                    // If customer is currently displayed, refresh their view
+                    const currentPhone = document.getElementById('phoneInput').value.trim();
+                    if (currentPhone === randomCustomer.phone) {
+                        displayCustomerInfo(randomCustomer);
+                    }
+                }
+            }, 10000); // Update every 10 seconds
+        }
+
+        function updateLastRefreshTime() {
+            lastUpdateTime = new Date();
+            document.getElementById('updateTime').textContent = lastUpdateTime.toLocaleTimeString();
+            document.getElementById('lastUpdated').style.display = 'block';
+        }
+
+        function searchCustomer() {
+            const phone = document.getElementById('phoneInput').value.trim();
+            
+            if (!phone) {
+                showMessage('Please enter your phone number', 'error');
+                return;
+            }
+            
+            if (phone.length !== 10) {
+                showMessage('Please enter a valid 10-digit phone number', 'error');
+                return;
+            }
+            
+            showLoading('Searching for your account...');
+            hideMessage();
+            hideResult();
+            
+            setTimeout(() => {
+                const customer = findCustomerByPhone(phone);
+                
+                if (customer) {
+                    displayCustomerInfo(customer);
+                } else {
+                    showMessage('No account found with this phone number. Please contact support.', 'error');
+                }
+                hideLoading();
+            }, 500);
+        }
+
+        function findCustomerByPhone(phone) {
+            return customerData.find(customer => 
+                String(customer.phone || '').replace(/\D/g, '') === phone
+            );
+        }
+
+        function displayCustomerInfo(customer) {
+            const resultSection = document.getElementById('resultSection');
+            
+            // Calculate pending amounts
+            const pendingAmount = parseFloat(customer.pendingAmount || 0);
+            const advanceAmount = parseFloat(customer.advanceAmount || 0);
+            const hasPending = pendingAmount > 0;
+            
+            // Parse year-wise pending if available
+            let yearWiseHtml = '';
+            if (customer.yearWisePending && Object.keys(customer.yearWisePending).length > 0) {
+                yearWiseHtml = '<div class="year-wise-pending"><h4>Year-wise Breakdown:</h4>';
+                
+                Object.entries(customer.yearWisePending).forEach(([year, amount]) => {
+                    const isCurrentYear = year.includes(new Date().getFullYear().toString());
+                    yearWiseHtml += `
+                        <div class="year-item ${isCurrentYear ? 'current-year' : 'other-year'}">
+                            <span>${year}</span>
+                            <span>₹${parseFloat(amount).toFixed(2)}</span>
+                        </div>
+                    `;
+                });
+                
+                yearWiseHtml += '</div>';
+            }
+            
+            // Parse invoices if available
+            let invoicesHtml = '';
+            if (customer.invoices && customer.invoices.length > 0) {
+                invoicesHtml = '<div class="invoices-section"><h4>Pending Invoices:</h4>';
+                
+                customer.invoices.forEach(invoice => {
+                    invoicesHtml += `
+                        <div class="invoice-item">
+                            <div class="invoice-header">
+                                <span class="invoice-id">#${invoice.id || 'N/A'}</span>
+                                <span class="invoice-amount">₹${parseFloat(invoice.amount || 0).toFixed(2)}</span>
+                            </div>
+                            <div class="invoice-date">Date: ${invoice.date || 'N/A'}</div>
+                        </div>
+                    `;
+                });
+                
+                invoicesHtml += '</div>';
+            }
+            
+            // Add refresh button
+            const refreshButton = customer.lastUpdated ? 
+                `<button class="refresh-btn" onclick="refreshCustomerData('${customer.phone}')" title="Refresh data">
+                    <i class="fas fa-sync-alt"></i>
+                </button>` : '';
+            
+            resultSection.innerHTML = `
+                <div class="customer-info">
+                    ${refreshButton}
+                    <h3><i class="fas fa-user"></i> ${customer.name || 'N/A'}</h3>
+                    <div class="info-row">
+                        <span class="info-label">Phone:</span>
+                        <span class="info-value">${customer.phone || 'N/A'}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="info-label">Address:</span>
+                        <span class="info-value">${customer.address || 'N/A'}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="info-label">Pending Amount:</span>
+                        <span class="info-value pending-amount">₹${pendingAmount.toFixed(2)} ${hasPending ? '(Pending)' : '(Clear)'}</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="info-label">Advance Paid:</span>
+                        <span class="info-value advance-amount">₹${advanceAmount.toFixed(2)} ${advanceAmount > 0 ? '(Advance)' : ''}</span>
+                    </div>
+                </div>
+                
+                ${yearWiseHtml}
+                ${invoicesHtml}
+                
+                <div style="text-align: center; margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
+                    <p style="color: #666; font-size: 14px;">
+                        <i class="fas fa-info-circle"></i> 
+                        For payment details or disputes, please contact our office.
+                    </p>
+                </div>
+            `;
+            
+            showResult();
+        }
+
+        function refreshCustomerData(phone) {
+            const customer = findCustomerByPhone(phone);
+            if (customer) {
+                displayCustomerInfo(customer);
+                showMessage('Data refreshed!', 'success');
+            }
+        }
+
+        function showLoading(message = 'Loading...') {
+            const loadingSection = document.getElementById('loadingSection');
+            loadingSection.innerHTML = `
+                <i class="fas fa-spinner"></i>
+                <p>${message}</p>
+            `;
+            loadingSection.style.display = 'block';
+        }
+
+        function hideLoading() {
+            document.getElementById('loadingSection').style.display = 'none';
+        }
+
+        function showMessage(message, type = 'info') {
+            const messageSection = document.getElementById('messageSection');
+            messageSection.innerHTML = `<div class="${type}">${message}</div>`;
+            messageSection.style.display = 'block';
+            
+            // Auto-hide success and info messages
+            if (type === 'success' || type === 'info') {
+                setTimeout(() => {
+                    hideMessage();
+                }, 5000);
+            }
+        }
+
+        function hideMessage() {
+            document.getElementById('messageSection').style.display = 'none';
+        }
+
+        function showResult() {
+            document.getElementById('resultSection').style.display = 'block';
+        }
+
+        function hideResult() {
+            document.getElementById('resultSection').style.display = 'none';
+        }
+    </script>
+</body>
+</html>
