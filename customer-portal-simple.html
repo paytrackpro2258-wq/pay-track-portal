@@ -332,6 +332,9 @@
                 <button class="btn-primary" id="searchBtn" onclick="searchCustomer()">
                     <i class="fas fa-search"></i> Check Account
                 </button>
+                <button class="btn-secondary" id="refreshBtn" onclick="loadCustomerData()" style="margin-left: 10px; background: #28a745;">
+                    <i class="fas fa-sync-alt"></i> Refresh Data
+                </button>
             </div>
 
             <div id="loadingSection" class="loading" style="display: none;">
@@ -357,7 +360,7 @@
 
     <script>
         let customerData = [];
-        const DATA_URL = 'https://paytrackpro2258-wq.github.io/pay-track-portal/customer-data.json';
+        const DATA_URL = '/api/storage/customers';
 
         // Initialize
         document.addEventListener('DOMContentLoaded', function() {
@@ -379,9 +382,12 @@
 
             // Load customer data automatically
             loadCustomerData();
+            
+            // Auto-refresh data every 30 seconds
+            setInterval(loadCustomerData, 30000);
         });
 
-        // Load customer data from GitHub
+        // Load customer data from local server
         async function loadCustomerData() {
             try {
                 showLoading('Loading customer data...');
@@ -391,7 +397,8 @@
                     throw new Error('Failed to load customer data');
                 }
                 
-                customerData = await response.json();
+                const apiResponse = await response.json();
+                customerData = apiResponse.value ? JSON.parse(apiResponse.value) : [];
                 
                 if (!Array.isArray(customerData)) {
                     throw new Error('Invalid data format');
