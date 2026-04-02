@@ -1,6 +1,13 @@
 {
   "invoices": [],
   "customers": [],
-  "lastUpdated": "2026-04-02T12:34:48.286Z",
+  "businessProfile": {
+    "name": "Bhavya Paints",
+    "phone": "+91 9586333309",
+    "email": "bhavyapaints15@gmail.com",
+    "address": "Dream city gate 2, sandkheda",
+    "gst": "22AAAAA0000A1Z5"
+  },
+  "lastUpdated": "2026-04-02T12:49:07.933Z",
   "version": "1.0.0"
 }
