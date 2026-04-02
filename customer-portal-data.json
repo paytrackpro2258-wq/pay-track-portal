@@ -1,6 +1,74 @@
 {
-  "invoices": [],
-  "customers": [],
+  "invoices": [
+    {
+      "invoiceId": "INV-001",
+      "customerName": "Rahul Sharma",
+      "customerPhone": "9586333309",
+      "date": "2026-03-25",
+      "createdAt": "2026-03-25T10:30:00Z",
+      "total": 5000,
+      "advance": 1000,
+      "balance": 4000,
+      "status": "pending",
+      "items": [
+        {
+          "name": "Premium Paint",
+          "quantity": 2,
+          "rate": 2500
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV-002",
+      "customerName": "Rahul Sharma",
+      "customerPhone": "9586333309",
+      "date": "2026-03-20",
+      "createdAt": "2026-03-20T14:15:00Z",
+      "total": 3000,
+      "advance": 3000,
+      "balance": 0,
+      "status": "paid",
+      "items": [
+        {
+          "name": "Wall Paint",
+          "quantity": 3,
+          "rate": 1000
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV-003",
+      "customerName": "Amit Kumar",
+      "customerPhone": "9876543210",
+      "date": "2026-03-22",
+      "createdAt": "2026-03-22T11:45:00Z",
+      "total": 7500,
+      "advance": 2000,
+      "balance": 5500,
+      "status": "pending",
+      "items": [
+        {
+          "name": "Exterior Paint",
+          "quantity": 5,
+          "rate": 1500
+        }
+      ]
+    }
+  ],
+  "customers": [
+    {
+      "name": "Rahul Sharma",
+      "phone": "9586333309",
+      "email": "rahul@example.com",
+      "address": "123 Main Street, City"
+    },
+    {
+      "name": "Amit Kumar",
+      "phone": "9876543210",
+      "email": "amit@example.com",
+      "address": "456 Park Avenue, City"
+    }
+  ],
   "businessProfile": {
     "name": "Bhavya Paints",
     "phone": "+91 9586333309",
@@ -8,6 +76,6 @@
     "address": "Dream city gate 2, sandkheda",
     "gst": "22AAAAA0000A1Z5"
   },
-  "lastUpdated": "2026-04-02T13:17:11.914Z",
+  "lastUpdated": "2026-04-02T12:50:00.000Z",
   "version": "1.0.0"
 }
